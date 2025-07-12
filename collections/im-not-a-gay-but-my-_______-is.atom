@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrmtshirts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrmtshirts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrmtshirts.com/collections/im-not-a-gay-but-my-_______-is.atom"/>
+  <title>MRM T-shirts</title>
+  <updated>2025-07-01T15:40:15-06:00</updated>
+  <author>
+    <name>MRM T-shirts</name>
+  </author>
+  <entry>
+    <id>https://mrmtshirts.com/products/9733909348599</id>
+    <published>2025-07-01T15:40:15-06:00</published>
+    <updated>2025-07-01T15:40:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/no-gay-but-cat-is-v-neckt"/>
+    <title>No gay, but Cat is -  V-Neckt</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/12718808668512641609_2048.jpg?v=1751406082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">This unisex jersey short sleeve V-neck tee radiates a casual yet stylish vibe, perfect for expressing individuality and embracing inclusivity. Its vibrant design complements a wide array of outfits, making it ideal for everyone from trendsetters to casual wear enthusiasts. Perfect for events such as Pride celebrations, LGBTQ+ gatherings, or simply to showcase your personality, this tee adds a playful and bold touch to any wardrobe. It's a great gift for friends, family, or anyone who loves to make a statement with their fashion choices during holidays like Pride Month and any celebration of love and acceptance.<br><br>Product features<br>- Made with side seams for improved shape retention and structural support.<br>- Features a ribbed knit collar that enhances elasticity and shape retention.<br>- Includes shoulder tape for added stabilization and durability.<br>- Crafted from lightweight, breathable 100% cotton fabric for year-round comfort.<br>- Produced sustainably by Bella+Canvas, ensuring humane labor practices.<br><br>Care instructions<br>- Do not dryclean<br>- Machine wash: warm (max 40C or 105F)<br>- Non-chlorine: bleach as needed<br>- Tumble dry: low heat<br>- Iron, steam or dry: medium heat<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual wear</s:tag>
+    <s:tag>colorful design</s:tag>
+    <s:tag>comfortable shirt</s:tag>
+    <s:tag>funny shirt</s:tag>
+    <s:tag>gender inclusive</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>humor clothing</s:tag>
+    <s:tag>lgbtq fashion</s:tag>
+    <s:tag>pride apparel</s:tag>
+    <s:tag>statement tee</s:tag>
+    <s:tag>summer outfit</s:tag>
+    <s:tag>unisex t-shirt</s:tag>
+    <s:tag>v-neck tee</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10147398996450990788</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17094087246848528515</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24426517745784869313</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10610964632318376504</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>76898147935238916459</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18324782744919816560</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>49490515540014427344</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30282859222161715245</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33034990323290197214</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9733909348599</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23292453906146504274</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8068745658615</id>
+    <published>2025-03-02T08:02:15-06:00</published>
+    <updated>2025-03-02T08:02:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-jersey-short-sleeve-tee-14"/>
+    <title>I’m not GAY, but my MOM is</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/8985515721735184409_2048.jpg?v=1747169521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time. Dual side seams hold the garment's shape for longer.</p>
+<p>.: Made with 100% Airlume combed and ring-spun cotton, a lightweight fabric (4.2 oz/yd² (142 g/m²)) that is easy to layer, breathable. Perfect for active and leisure wear. <br>.: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing.<br>.: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP certified. <br>.: The tear-away label minimizes skin irritations.<br>.: Fabric blends: Ash - 99% Airlume combed and ring-spun cotton, 1% polyester; Heather colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25357484361744615612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27541084140256233255</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>92777916441757095797</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>59205375629915126369</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17109891590584105415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28546889463349399273</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30531335920586536952</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>55283531236259120638</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>48683669501913853595</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12021188587490466942</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24454574423256996863</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33966475330887137273</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>64520317885807490834</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068745658615</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>73982574675323578996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8068743856375</id>
+    <published>2025-03-02T04:00:56-06:00</published>
+    <updated>2025-03-02T04:00:56-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-jersey-short-sleeve-tee-11"/>
+    <title>I’m not GAY, but D❤️D is -</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/4618364548972979144_2048.jpg?v=1747173135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not GAY, but D❤️D is</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“We have many more shirts for you to tell your personal story’s with. “I hadn’t talked to my mom in person in a long time. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">When I went to my sisters wedding, I met my mom’s new friend.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It seemed a little odd, but I did not bring it up.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I drove to my mom’s house, and there was a large gay flag at the front door. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">That said it all.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">My mom thought that I would be angry, but I gave her a big hug instead. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not gay, but my mom is.”</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">-MRM</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">We have many more shirts for you to tell <span class="Apple-converted-space"> </span>your personal story’s with.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"> </p>
+<table id="size-guide" style="min-width: 360px; height: 252px;" width="656">
+<thead>
+<tr>
+<th style="padding: 10px;"> </th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">S</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">M</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">L</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">XL</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">2XL</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">3XL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Width, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">17.99</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">20.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">22.01</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">24.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">25.98</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">27.99</td>
+</tr>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Length, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">27.99</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">29.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">30.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">31.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">32.01</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">32.99</td>
+</tr>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Sleeve length, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">8.90</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.17</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.45</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.72</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">10.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">10.39</td>
+</tr>
+</tbody>
+</table>
+<p>This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time. Dual side seams hold the garment's shape for longer.</p>
+<p>.: Made with 100% Airlume combed and ring-spun cotton, a lightweight fabric (4.2 oz/yd² (142 g/m²)) that is easy to layer, breathable. Perfect for active and leisure wear. <br>.: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing.<br>.: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP certified. <br>.: The tear-away label minimizes skin irritations.<br>.: Fabric blends: Ash - 99% Airlume combed and ring-spun cotton, 1% polyester; Heather colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30243901571613253630</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18142232672108705537</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13894845571252091735</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18624223243473235309</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32082464653651406970</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16940662099268564891</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32574329970661558237</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29801102972908770252</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19217311634015381242</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743856375</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28897961201453127924</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8068746510583</id>
+    <published>2025-02-11T23:19:39-06:00</published>
+    <updated>2025-02-11T23:19:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-jersey-short-sleeve-tee-15"/>
+    <title>I’m not GAY, but  D❤️G</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/6150178353566941269_2048.jpg?v=1747171532"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not GAY, but D❤️G is</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“We have many more shirts for you to tell your personal story’s with. “I hadn’t talked to my mom in person in a long time. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">When I went to my sisters wedding, I met my mom’s new friend.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It seemed a little odd, but I did not bring it up.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I drove to my mom’s house, and there was a large gay flag at the front door. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">That said it all.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">My mom thought that I would be angry, but I gave her a big hug instead. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not gay, but my mom is.”</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">-MRM</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">We have many more shirts for you to tell <span class="Apple-converted-space"> </span>your personal story’s with.</span></p>
+<p> </p>
+<p> </p>
+<p>This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time. Dual side seams hold the garment's shape for longer.</p>
+<p>.: Made with 100% Airlume combed and ring-spun cotton, a lightweight fabric (4.2 oz/yd² (142 g/m²)) that is easy to layer, breathable. Perfect for active and leisure wear. <br>.: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing.<br>.: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP certified. <br>.: The tear-away label minimizes skin irritations.<br>.: Fabric blends: Ash - 99% Airlume combed and ring-spun cotton, 1% polyester; Heather colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.</p>
+<p>Discover the convenience of Express 2-day delivery across the US (except Alaska and Hawaii) for the fastest service possible.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 day delivery</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Crew neck</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Express delivery</s:tag>
+    <s:tag>Fast delivery</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24155994842010745100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>57179517156436260448</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Ash / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33266767926087809938</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>86369737216962730186</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>67606885592821801118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Ash / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20345955868238179265</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12150816941419303062</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>49907492205105062302</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Ash / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>59551872082374738854</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18100314433575428093</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>44478667929562609081</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Ash / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>89472996603499006141</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32297024552573867153</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20832651003431393484</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068746510583</id>
+      <title>Ash / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30510702410013889457</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8068743037175</id>
+    <published>2024-06-01T11:44:54-06:00</published>
+    <updated>2024-06-01T11:44:54-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-jersey-short-sleeve-tee-8"/>
+    <title>I’m not GAY, but my M❤️M is</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/10624741144253023289_2048.jpg?v=1747168659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not GAY, but my M❤️M is</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“We have many more shirts for you to tell your personal story’s with. “I hadn’t talked to my mom in person in a long time. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">When I went to my sisters wedding, I met my mom’s new friend.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It seemed a little odd, but I did not bring it up.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I drove to my moms house, and there was a large gay flag at the front door. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">That said it all.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">My mom thought that I would be angry, but I gave her a big hug instead. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not gay, but my mom is.”</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">-MRM</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">We have many more shirts for you to tell <span class="Apple-converted-space"> </span>your personal story’s with.</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p> </p>
+<p> </p>
+<p>This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time. Dual side seams hold the garment's shape for longer.</p>
+<p>.: Made with 100% Airlume combed and ring-spun cotton, a lightweight fabric (4.2 oz/yd² (142 g/m²)) that is easy to layer, breathable. Perfect for active and leisure wear. <br>.: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing.<br>.: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP certified. <br>.: The tear-away label minimizes skin irritations.<br>.: Fabric blends: Ash - 99% Airlume combed and ring-spun cotton, 1% polyester; Heather colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Crew neck</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>I’m straight</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Mom and dad</s:tag>
+    <s:tag>Mother father</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>OK</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>95018170607030153848</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24819383284301185603</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17138306232331843422</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Ash / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15307951460123329422</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11305640591534557242</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22306153849739055135</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32265727943034151396</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Ash / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22862268901350724599</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20443322526862616034</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13054739468773505643</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33297758841110561322</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Ash / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33318695324936206395</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21555392884606834332</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27559648169709129897</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31119358831286969905</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Ash / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26055985399863733841</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15328383213132787530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>60018508958701722810</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20524600949183942697</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068743037175</id>
+      <title>Ash / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30645003641803797392</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8068739891447</id>
+    <published>2024-01-16T10:52:39-06:00</published>
+    <updated>2024-01-16T10:52:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-jersey-short-sleeve-tee-2"/>
+    <title>I’m not GAY, but C❤️T</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/1049554605231095387_2048.jpg?v=1747173193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not GAY, but M❤️M is</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“We have many more shirts for you to tell your personal story’s with. “I hadn’t talked to my mom in person in a long time. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">When I went to my sisters wedding, I met my mom’s new friend.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It seemed a little odd, but I did not bring it up.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I drove to my mom’s house, and there was a large gay flag at the front door. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">That said it all.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">My mom thought that I would be angry, but I gave her a big hug instead. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">I’m not gay, but my mom is.”</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">-MRM</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">We have many more shirts for you to tell <span class="Apple-converted-space"> </span>your personal story’s with.</span></p>
+<p> </p>
+<p> </p>
+<table id="size-guide" style="min-width: 360px; height: 252px;" width="656">
+<thead>
+<tr>
+<th style="padding: 10px;"> </th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">S</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">M</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">L</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">XL</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">2XL</th>
+<th style="color: #000000; font-weight: 500; text-align: left; font-size: 15px; padding: 10px;">3XL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Width, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">17.99</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">20.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">22.01</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">24.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">25.98</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">27.99</td>
+</tr>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Length, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">27.99</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">29.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">30.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">31.02</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">32.01</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">32.99</td>
+</tr>
+<tr>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">Sleeve length, in</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">8.90</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.17</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.45</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">9.72</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">10.00</td>
+<td style="padding: 10px; color: #525252; font-size: 15px; border-top: 1px solid #ededed; word-break: break-word;">10.39</td>
+</tr>
+</tbody>
+</table>
+<p>This classic unisex jersey short sleeve tee fits like a well-loved favorite. Soft cotton and quality print make users fall in love with it over and over again. These t-shirts have-ribbed knit collars to bolster shaping. The shoulders are tapered for a better fit over time. Dual side seams hold the garment's shape for longer.</p>
+<p>.: Made with 100% Airlume combed and ring-spun cotton, a lightweight fabric (4.2 oz/yd² (142 g/m²)) that is easy to layer, breathable. Perfect for active and leisure wear. <br>.: The retail fit that is perfect for casual and semi-formal settings. The crew neckline adds a classic, neat style that's perfect for accessorizing.<br>.: Bella+Canvas manufactures all its products in the US and internationally in humane, no-sweat-shop, sustainable way and is part of the Fair Labor Association as well as Platinum WRAP certified. <br>.: The tear-away label minimizes skin irritations.<br>.: Fabric blends: Ash - 99% Airlume combed and ring-spun cotton, 1% polyester; Heather colors - 52% cotton, 48% polyester; Athletic Heather and Black Heather - 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>2 day delivery</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Crew neck</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Express delivery</s:tag>
+    <s:tag>Fast delivery</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15850972256644477900</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>Ash / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29947214614728048662</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>49897384161641383795</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>Ash / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>78034722166953896595</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36296882757276324632</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>Ash / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22266749358688184146</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25198027868954481244</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>Ash / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>58505862793801712595</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26828083777743757430</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8068739891447</id>
+      <title>Ash / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21136209315957371851</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
