@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrmtshirts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrmtshirts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrmtshirts.com/collections/wifeis.atom"/>
+  <title>MRM T-shirts</title>
+  <updated>2025-06-26T13:47:12-06:00</updated>
+  <author>
+    <name>MRM T-shirts</name>
+  </author>
+  <entry>
+    <id>https://mrmtshirts.com/products/9722287128823</id>
+    <published>2025-06-26T13:47:12-06:00</published>
+    <updated>2025-06-26T13:47:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/magic-wife-s"/>
+    <title>Magic - Wifes</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/8326657383520149414_2048.jpg?v=1750969591"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gildan introduces its Softstyle™ tank top for adults. Made 100% with cotton for unparalleled softness and durability, this tank top features a semi-fitted tubular body that strikes a perfect balance between sporty and casual. The high-stitch density provides a smoother printing surface so all your designs are brought to life with vivid colors &amp; details. <br><p>.: 100% Ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi-fitted<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Magic</s:tag>
+    <s:tag>Magic Mug</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>Summer Picks</s:tag>
+    <s:tag>Tank Tops</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22778886307784466551</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>26376859713743380946</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21332676669931149380</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14503485186038788928</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21019643101750651874</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>66969149154491398452</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>46984995281333126248</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21617371580041970485</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>74820255330021669237</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30825093487190559795</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>15005906435926289005</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>15181122143889595741</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10786901643346974150</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9722287128823</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>87942104925312682579</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9692186116343</id>
+    <published>2025-06-26T07:13:43-06:00</published>
+    <updated>2025-06-26T07:13:43-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/magic-hifie-1"/>
+    <title>Magic HIFIE 1</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/897499077908204811_2048.jpg?v=1750943625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Gildan introduces its Softstyle™ tank top for adults. Made 100% with cotton for unparalleled softness and durability, this tank top features a semi-fitted tubular body that strikes a perfect balance between sporty and casual. The high-stitch density provides a smoother printing surface so all your designs are brought to life with vivid colors &amp; details. <br><p>.: 100% Ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi-fitted<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>Summer Picks</s:tag>
+    <s:tag>Tank Tops</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10016290170463455667</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17124255907623887210</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25972264169674771754</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14657442939600062325</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26053930050330392494</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80707922748077633789</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24480232042651992251</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20098776344033495467</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32583539988051039535</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23910332619273665043</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11275257975349641678</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18739619047621883804</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21580783579015340661</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692186116343</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22191829406647565929</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9643876516087</id>
+    <published>2025-06-26T00:13:19-06:00</published>
+    <updated>2025-06-26T00:13:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-mike-wife-beater"/>
+    <title>6-Mike - Wife beater</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/15799288487034246342_2048.jpg?v=1749683554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing a stylish Unisex Softstyle™ Tank Top that combines comfort and trend effortlessly. This tank top exudes a laid-back vibe, perfect for sunny days, casual outings, or gym sessions. Its light fabric makes it ideal for layering or wearing alone during warmer months. Whether you’re heading to a barbecue, beach party, or simply lounging at home, this tank top fits seamlessly into your lifestyle. Its versatile design appeals to everyone—men and women who appreciate casual, comfortable fashion. Celebrate summer vacations, outdoor activities, or just enjoy a good day with friends in this must-have piece.<br><br>Product features<br>- 100% cotton for solid colors (90% cotton, 10% polyester for Sport Gray)<br>- Durable double needle bottom hem for long-lasting wear<br>- Comfortable necktape for stability and non-stretch<br>- Lightweight fabric at 4.5 oz/yd² for a breezy feel<br>- Semi-fitted style with a tear away label for added comfort<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Comfortable Tank</s:tag>
+    <s:tag>Cool Summer Style</s:tag>
+    <s:tag>Everyday Essentials</s:tag>
+    <s:tag>Fitness Apparel</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Graphic Tank Top</s:tag>
+    <s:tag>Men&apos;s Fashion Top</s:tag>
+    <s:tag>Sporty Fashion</s:tag>
+    <s:tag>Streetwear Tank</s:tag>
+    <s:tag>Stylish Activewear</s:tag>
+    <s:tag>Trendy Sportswear</s:tag>
+    <s:tag>Unisex Tank Top</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>13009962059511324507</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>32766243780631172225</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22913764061451284943</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22487754971146226165</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21770276506169084680</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14410445534622189794</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20932226059001037758</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>13957860234278366074</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>67586403121039424311</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21014697148862475617</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28698823005526432845</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29671845014223949693</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31725641321988420137</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643876516087</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>23850734960253979767</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9643905188087</id>
+    <published>2025-04-11T18:01:12-06:00</published>
+    <updated>2025-04-11T18:01:12-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-bee-inspired-wife-beater"/>
+    <title>So many beees! - wife beater</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/17373633815152305675_2048.jpg?v=1747154004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing this Unisex Softstyle™ Tank Top, perfect for those warm days when comfort and style collide. With its light fabric and semi-fitted design, this tank top offers a laid-back vibe that’s ideal for casual outings, beach days, or lounging at home. Whether you're hitting the gym or enjoying a summer BBQ with friends, you'll love the ease and breathability it provides. This stylish top is perfect for anyone who values both versatility and comfort in their wardrobe. Ideal for summer celebrations, music festivals, or just soaking up the sun, it makes a great gift for birthdays, holidays, or any occasion that calls for a fresh, edgy look.<br><br>Product features<br>- 100% cotton for solid colors and a comfy fit<br>- Durably sewn with double needle bottom hem<br>- Necktape for added comfort and stability<br>- Lightweight fabric, perfect for warm weather<br>- Semi-fitted style suitable for various body types<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Animals</s:tag>
+    <s:tag>Artistic Clothing</s:tag>
+    <s:tag>B</s:tag>
+    <s:tag>Bee Inspired Tee</s:tag>
+    <s:tag>Bee Lover Gift</s:tag>
+    <s:tag>Bee Pattern Top</s:tag>
+    <s:tag>Bee Themed Apparel</s:tag>
+    <s:tag>Bee Themed Clothing</s:tag>
+    <s:tag>Bees</s:tag>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Comfortable Fitness</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Eco Friendly Fashion</s:tag>
+    <s:tag>Fourth of July</s:tag>
+    <s:tag>Gift for Her</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Relaxed Fit Tank</s:tag>
+    <s:tag>Softstyle Apparel</s:tag>
+    <s:tag>Stylish Activewear</s:tag>
+    <s:tag>Summer Wardrobe</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>T-shirts clothing clothes</s:tag>
+    <s:tag>T-shirts hoody</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Trendy Beachwear</s:tag>
+    <s:tag>Unisex Tank Top</s:tag>
+    <s:tag>Wife beater</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>96111267019352076669</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>89885840185953170446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28905384418507320857</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>24709924899529266348</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31803860568369330118</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18564052973136529676</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>13932869651597163274</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70101514918216211644</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>38742120813065960004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643905188087</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>24225723439485344711</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9643888443639</id>
+    <published>2025-04-11T16:20:02-06:00</published>
+    <updated>2025-04-11T16:20:02-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-d-j-scratchy-wife-beater"/>
+    <title>D.J. Scratchy - wife beater</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/9662419670312663558_2048.jpg?v=1747153132"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing the perfect companion for your vibrant summer days: a stylish Unisex Softstyle™ Tank Top. This tank provides a light and breezy feel, ideal for lounging by the pool, hitting the beach, or enjoying a casual outing with friends. The fun and playful design offers a sense of originality and flair, making it a must-have for those who love to express their unique style. This tank top is perfect for music lovers, especially those celebrating festivals, barbecues, or casual gatherings. It embodies a relaxed vibe that's great for everyday wear, giving off cheerful and uplifting energy for any occasion. Whether you're a DJ or just love the scene, this tank brings rhythm to your wardrobe, making it a fantastic gift for birthdays, summer parties, or just because!<br><br>Product features<br>- 100% cotton for solid colors<br>- Durable double needle bottom hem<br>- Comfortable self fabric necktape<br>- Lightweight at 4.5 oz/yd²<br>- Semi-fitted for a modern look<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Cute Graphic Tee</s:tag>
+    <s:tag>DJ Tank Top</s:tag>
+    <s:tag>Festival Clothing</s:tag>
+    <s:tag>Fun DJ Shirt</s:tag>
+    <s:tag>Gift for Her</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Music Lover Gift</s:tag>
+    <s:tag>Party Outfit</s:tag>
+    <s:tag>Playful Design Top</s:tag>
+    <s:tag>Soft Cotton Tank</s:tag>
+    <s:tag>Trendy Fashion Top</s:tag>
+    <s:tag>Unisex Apparel</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643888443639</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>56770640627273992109</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643888443639</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>29407018114558916768</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643888443639</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20656441727136543225</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643888443639</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>65774193852875421973</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643888443639</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20613552289050069691</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9643873337591</id>
+    <published>2025-04-11T15:19:20-06:00</published>
+    <updated>2025-04-11T15:19:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-mmomheartwarming-unisex-softstyle%E2%84%A2-tank-top-perfect-for-family-gatherings"/>
+    <title>Mom</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/15984357260331654536_2048.jpg?v=1751261262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our soft and stylish Unisex Tank Top, perfect for those who seek both comfort and a trendy look. Made from high-quality materials, this tank top drapes beautifully, making it an ideal choice for warm days at the beach, casual outings, or a cozy night at home. Its semi-fitted design ensures a flattering silhouette for everyone, which makes it suitable for all body types.<br><br>Whether you're getting ready for a summer festival, celebrating a birthday, or lounging on a sunny afternoon, this tank top is the perfect companion. It resonates with a carefree vibe and minimalist aesthetic, appealing especially to young adults and those who appreciate casual fashion. Great for gifting during holidays, family gatherings, or fun occasions!<br><br>Product features<br>- 100% cotton construction for solid colors.<br>- Durable double needle bottom hem.<br>- Comfortable self fabric necktape.<br>- Lightweight fabric at 4.5 oz/yd².<br>- Semi-fitted with a tear away label.<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Celebration Outfit</s:tag>
+    <s:tag>Comfortable Apparel</s:tag>
+    <s:tag>Cute Graphic Tee</s:tag>
+    <s:tag>Easy Wear Top</s:tag>
+    <s:tag>Everyday Fashion</s:tag>
+    <s:tag>Gift for Mom</s:tag>
+    <s:tag>Relaxed Fit Tank</s:tag>
+    <s:tag>Softstyle Tank</s:tag>
+    <s:tag>Summer Party Style</s:tag>
+    <s:tag>Unisex Tank Top</s:tag>
+    <s:tag>Versatile Tank Top</s:tag>
+    <s:tag>Wardrobe Essential</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643873337591</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13765099233942326716</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643873337591</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>96532562864987820290</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643873337591</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24705129129044564336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643873337591</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>82815981496699741945</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643873337591</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23171562818042346194</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9608866726135</id>
+    <published>2025-03-07T20:47:11-06:00</published>
+    <updated>2025-03-07T20:47:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-trees-3-tank-top"/>
+    <title>Frees - Tank Top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/18039163131400534099_2048.jpg?v=1747183057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Embrace effortless style with our lightweight Unisex Softstyle™ Tank Top. Perfect for warm days, this tank top is made from breathable fabric that ensures comfort while keeping you cool. The semi-fitted cut flatters every body type, making it an ideal choice for both lounging at home and active outings. Whether you're at the beach, hitting the gym, or enjoying a weekend barbecue, this tank provides a relaxed vibe that fits seamlessly into your lifestyle. It's a great gift for friends and family who love casual wear and appreciate quality clothing. Perfect for summer holidays, outdoor festivals, and casual gatherings, make it a staple in your summer wardrobe!<br><br>Product features<br>- 100% cotton for solid colors, offering softness and comfort.<br>- Durable double needle bottom hem for enhanced longevity.<br>- Self fabric necktape for a comfortable fit and stability.<br>- Lightweight design at 4.5 oz/yd², perfect for warm weather.<br>- Semi-fitted cut that flatters all body shapes.<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Active Lifestyle Top</s:tag>
+    <s:tag>Beach Day Outfit</s:tag>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Gift for Her</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Graphic Tee</s:tag>
+    <s:tag>Outdoor Fitness Gear</s:tag>
+    <s:tag>Relaxed Fit Apparel</s:tag>
+    <s:tag>Softstyle Tank</s:tag>
+    <s:tag>Stylish Workout Top</s:tag>
+    <s:tag>Travel Essentials</s:tag>
+    <s:tag>Unisex Fashion</s:tag>
+    <s:tag>Unisex Tank Top</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32180640120454703889</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11172235590600463469</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17053218701386008562</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33768546667635978412</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41067015981420389240</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16331890993074968750</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29775680522780014646</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31824145165497177165</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19336301024462503919</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24044665254538099872</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32389405587112083153</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18037158348441775914</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11903617253535552948</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608866726135</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26792130293505788406</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9608793161975</id>
+    <published>2025-03-07T20:47:09-06:00</published>
+    <updated>2025-03-07T20:47:09-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-magic-2-tank-top"/>
+    <title>Magic - 2 - Tank Top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/14326347054860405446_2048.jpg?v=1747182582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your summer wardrobe with this stylish Unisex Softstyle™ Tank Top. Crafted for both comfort and fashion, this tank top is perfect for those warm days when you want to feel breezy and relaxed. The unique design adds a splash of personality, making it a great choice for casual outings, beach trips, or lounging at home. Ideal for anyone who embraces creativity and self-expression, this tank is perfect for artists, students, or anyone looking to make a statement. Great for summer barbecues, music festivals, or simply enjoying a day out in the sun, it's the go-to piece for staying cool and stylish. Wear it while celebrating summer birthdays, Independence Day, or any fun occasion!<br><br>Product features<br>- 100% cotton composition for solid colors<br>- Durable double needle bottom hem<br>- Comfortable self-fabric necktape<br>- Lightweight fabric at 4.5 oz/yd²<br>- Semi-fitted shape with a tear away label<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artistic Apparel</s:tag>
+    <s:tag>Artwork Tank Top</s:tag>
+    <s:tag>Casual Summer Wear</s:tag>
+    <s:tag>Comfortable Clothing</s:tag>
+    <s:tag>Cool Graphic Tee</s:tag>
+    <s:tag>Graphic Tank Top</s:tag>
+    <s:tag>Layering Tank Top</s:tag>
+    <s:tag>Modern Fashion Piece</s:tag>
+    <s:tag>Relaxed Fit Tank</s:tag>
+    <s:tag>Streetwear Style</s:tag>
+    <s:tag>Trendy Summer Style</s:tag>
+    <s:tag>Unique Art Design</s:tag>
+    <s:tag>Unisex Tank Top</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>48131401258676133795</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>68500912863743193107</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>21139960210123786432</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>60199235229658806731</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>62711246213789686386</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>27252074617832041351</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>57664207703072228753</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25843985915624540476</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>19424941125338896416</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>65848509434694358965</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>10399674624550943268</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>26712560963220617565</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30863102624659411689</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608793161975</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>28972886401326362133</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9608777072887</id>
+    <published>2025-03-07T20:47:07-06:00</published>
+    <updated>2025-03-07T20:47:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/7-texas-flag-wifey"/>
+    <title>Texas Flag - tank top</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/7599569634592092898_2048.jpg?v=1750916954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our versatile Unisex Softstyle™ Tank Top, perfect for both casual outings and active lifestyles. Crafted from soft, breathable cotton, this tank top is designed to keep you cool and comfortable all day long. Whether you're hitting the gym, relaxing at home, or enjoying a sunny day at the beach, this tank top fits seamlessly into your daily routine. Ideal for anyone who values comfort and style, it's a great choice for fitness enthusiasts, summer lovers, or anyone looking to refresh their wardrobe. This tank is also an excellent gift for occasions like birthdays, summer holidays, or just to show someone you care. Express your individuality while staying chill and stylish!<br><br>Product features<br>- 100% cotton for ultimate softness<br>- Durable double needle bottom hem<br>- Comfort-enhancing self fabric necktape<br>- Lightweight fabric perfect for warm days<br>- Semi-fitted style to flatter all body types<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Americana Style Top</s:tag>
+    <s:tag>Beach Day Outfit</s:tag>
+    <s:tag>Comfy Summer Tank</s:tag>
+    <s:tag>Gift for Her</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Holiday BBQ Outfit</s:tag>
+    <s:tag>Outdoor Festival Top</s:tag>
+    <s:tag>Patriotic Clothing</s:tag>
+    <s:tag>Relaxed Fit Top</s:tag>
+    <s:tag>State Pride Apparel</s:tag>
+    <s:tag>Summer Casual Wear</s:tag>
+    <s:tag>Texas Flag Tank</s:tag>
+    <s:tag>Unisex Fashion Tank</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>42115035298690573564</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>20478533214058732580</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>26898334338265181138</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>17186544816558912001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>13995874441688342900</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>98319165538786929284</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22816014442643321423</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>79936498185278921577</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>19024298929274786486</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608777072887</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>65434482558022285289</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

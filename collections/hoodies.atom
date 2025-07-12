@@ -1,0 +1,3087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrmtshirts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrmtshirts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrmtshirts.com/collections/hoodies.atom"/>
+  <title>MRM T-shirts</title>
+  <updated>2025-05-17T14:56:55-06:00</updated>
+  <author>
+    <name>MRM T-shirts</name>
+  </author>
+  <entry>
+    <id>https://mrmtshirts.com/products/9662961385719</id>
+    <published>2025-05-17T14:56:55-06:00</published>
+    <updated>2025-05-17T14:56:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/future-love-hooded"/>
+    <title>Future love - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/1469019430728726395_2048.jpg?v=1747177930"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.<br><p>.: 50% soft cotton,  50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>27725900583358977385</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Charcoal Grey / S</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>82875401221553149009</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Classic Pink / S</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>26535123169142497537</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>26358047763499077482</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>26797677259790962799</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Classic Pink / M</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>18477788549384782748</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>22950657455624621855</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>27804921961199250853</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Classic Pink / L</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>77245975690746897732</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>10261130739395326244</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>32006447999821076704</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Classic Pink / XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>23093130302432049413</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>23123325810614850533</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>25367835876334480850</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662961385719</id>
+      <title>Classic Pink / 2XL</title>
+      <s:price currency="USD">49.99</s:price>
+      <s:sku>16372494395171446500</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9662963319031</id>
+    <published>2025-05-13T17:13:10-06:00</published>
+    <updated>2025-05-13T17:13:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/canada-bankk-5-hoodie"/>
+    <title>Canada - Bankk - 5 - hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/10463873921108614226_2048.jpg?v=1747177992"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.<br><p>.: 50% soft cotton,  50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banff</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Mountain</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24070050201198170916</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Charcoal Grey / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>87461028801773859096</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21003587327121202505</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>76904877492174265479</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14204818505634622706</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12255807679252434890</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>53611038805796464008</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18116079998004272553</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>67238599196730754570</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662963319031</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40422087875036842828</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9662943297783</id>
+    <published>2025-05-13T17:01:11-06:00</published>
+    <updated>2025-05-13T17:01:11-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/gorilla-chainsaw-massacre-hooded"/>
+    <title>Gorilla Chainsaw Massacre - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/13834928202375221041_2048.jpg?v=1747706182"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.<br><p>.: 50% soft cotton,  50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AI</s:tag>
+    <s:tag>artistic daily wear</s:tag>
+    <s:tag>Austin Texas</s:tag>
+    <s:tag>brain teaser</s:tag>
+    <s:tag>Car Decals Texas</s:tag>
+    <s:tag>Cocaine</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>fun brain teasers</s:tag>
+    <s:tag>Gorilla</s:tag>
+    <s:tag>graphic hoodie</s:tag>
+    <s:tag>Hard rain</s:tag>
+    <s:tag>Hooded</s:tag>
+    <s:tag>hooded sweatshirt</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>indoor entertainment</s:tag>
+    <s:tag>I’m straight</s:tag>
+    <s:tag>kawaii art</s:tag>
+    <s:tag>Lightning thunder rain</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>mesh trainers</s:tag>
+    <s:tag>Mountain</s:tag>
+    <s:tag>Mountains</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:tag>Rainbow</s:tag>
+    <s:tag>Rainbow rainbow</s:tag>
+    <s:tag>Raining thunder light</s:tag>
+    <s:tag>socks with flair</s:tag>
+    <s:tag>Sticker Pack Texas</s:tag>
+    <s:tag>strait</s:tag>
+    <s:tag>stylish hoodie</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>Sustainable Fashion</s:tag>
+    <s:tag>T-shirts hoody</s:tag>
+    <s:tag>Texas</s:tag>
+    <s:tag>Texas chainsaw massacre</s:tag>
+    <s:tag>Texas flag clothing</s:tag>
+    <s:tag>Texas flag outfit</s:tag>
+    <s:tag>Texas Flag Shirt</s:tag>
+    <s:tag>Texas Flag Sticker</s:tag>
+    <s:tag>Texas Flag Tank</s:tag>
+    <s:tag>Texas Pride Gift</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16458935783103413479</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Charcoal Grey / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11868608367796169741</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Classic Pink / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29792821495050675950</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12070287711612159490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14398992776416989954</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Classic Pink / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23208557875565055938</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30112273160455685556</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21569869788513969095</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Classic Pink / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18355838413245039344</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22300305817349044769</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11094745618600674698</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Classic Pink / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17846737656791199374</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28096602392221963703</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28883592667054804165</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662943297783</id>
+      <title>Classic Pink / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>52436614501180285853</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9662782243063</id>
+    <published>2025-05-13T11:41:16-06:00</published>
+    <updated>2025-05-13T11:41:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/cow-hoodiem"/>
+    <title>Cow - Hoodiem</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/14469839719972579405_2048.jpg?v=1747158078"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            59.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beat the cold with this premium pullover hoodie that’s just the right layer of warm and cozy. Made with three-panel fleece lining, this pullover is double stitched for durability and roomy. Pick one in your favorite color to match your style. <br><p>.: 80% combed ring-spun cotton, 20% polyester (fiber content may vary for heather colors)<br>.: Medium-heavy fabric (8.2 oz /yd² (280 g/m²))<br>.: Regular fit<br>.: Runs true to size<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Long Sleeves</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Seasonal Picks</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662782243063</id>
+      <title>White / S</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>28381762503990878279</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662782243063</id>
+      <title>White / M</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>27152046853998188427</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662782243063</id>
+      <title>White / L</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>33029622157276782694</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662782243063</id>
+      <title>White / XL</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>29065095397403883024</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9662782243063</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">59.99</s:price>
+      <s:sku>11064944481802609073</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9628394455287</id>
+    <published>2025-03-19T18:41:55-06:00</published>
+    <updated>2025-03-19T18:41:55-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-mary-s-rage-hoodie"/>
+    <title>Mary’s rage - Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/10765122117515912322_2048.jpg?v=1747154482"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">"Mary was constantly made fun of because she wore clothes there were hammydowns from her sister. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">They were constantly telling her that she’s a loser and poor.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">One day, another girl knocked her food on the ground and kicked it at her, and everyone laughed.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">She cried and ran outside. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">Her sadness turned into rage, and she then flew up and began shooting lightning from her arms. </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">She would no longer be able to be made fun of.”</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<ul class="ul1" style="list-style-type: '—  '; -webkit-text-size-adjust: auto;">
+<li class="li1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.09px;">MRM</span></li>
+</ul>
+<p> </p>
+<p><br>This Men's Hoodie is your new go-to for comfort and style. Crafted from a blend of 50% soft cotton and 50% polyester, it offers a cozy feel that’s perfect for relaxing at home or heading out with friends. The spacious kangaroo pocket is ideal for keeping your hands warm during chillier days, while the adjustable drawstring hood adds an extra layer of coziness. With its loose fit and true-to-size design, this hoodie suits everyone, making it a versatile addition to any wardrobe.<br><br>Perfect for casual outings, weekend get-togethers, or just lounging on the couch, it's a must-have for any laid-back lifestyle. This hoodie is also great for gifting on occasions like birthdays, holidays, or just as a treat for yourself. Embrace comfort and style, whether you're relaxing with loved ones or enjoying a day out. <br><br>Ideal for men who love a mix of comfort and flair, this hoodie presents an easy option for seasonal layering, making it a thoughtful choice for the colder months.<br><br>Product features<br>- 50% soft cotton and 50% polyester for a pleasant feel<br>- Without side seams for reduced waste and enhanced appearance<br>- Adjustable drawstring hood with sleek metal grommets<br>- Spacious kangaroo pouch pocket perfect for warming hands<br>- Medium-heavy fabric with a loose fit for comfort<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Non-chlorine: bleach as needed<br>- Tumble dry: low heat<br>- Do not iron<br>- Do not dryclean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual wear</s:tag>
+    <s:tag>cozy sweatshirt</s:tag>
+    <s:tag>everyday style</s:tag>
+    <s:tag>funny sweatshirt</s:tag>
+    <s:tag>gift for him</s:tag>
+    <s:tag>graphic apparel</s:tag>
+    <s:tag>graphic hoodie</s:tag>
+    <s:tag>hooded sweatshirt</s:tag>
+    <s:tag>men&apos;s apparel</s:tag>
+    <s:tag>stylish hoodie</s:tag>
+    <s:tag>trendy clothing</s:tag>
+    <s:tag>unique designs</s:tag>
+    <s:tag>urban fashion</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16289114695731648398</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17533924975091876730</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29516221377463017946</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27440541027690270255</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22345596880132627870</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20773273197733104785</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11235077426497414838</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30219143165641681898</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10367221107433754765</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29263465943804693207</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19287618246450557412</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15623782076612116732</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33396432062077245445</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17769126019766661762</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23870332910372995552</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11513954383915846065</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16406492362597692343</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13444964663283945260</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27610019452643051985</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27470274768623815647</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10946586762004601631</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24074907135848030769</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28513867144803765594</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Athletic Heather / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>90814118422483707167</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30867102627137363763</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Charcoal Grey / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22719238206585480471</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9628394455287</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14408866269680082794</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9608182530295</id>
+    <published>2025-03-19T13:31:05-06:00</published>
+    <updated>2025-03-19T13:31:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-three-panel-hoodie"/>
+    <title>Three-Panel - Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/16084998083210701432_2048.jpg?v=1747156407"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99 - 58.25
+            <a href="https://mrmtshirts.com/products/8-three-panel-hoodie">(19 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>"What is smoothie?"</p>
+<p>MRM</p>
+<p> </p>
+<p> </p>
+<p><br>Beat the cold with this premium pullover hoodie that’s just the right layer of warm and cozy. Made with three-panel fleece lining, this pullover is double stitched for durability and roomy. Pick one in your favorite color to match your style.</p>
+<p>.: 80% combed ring-spun cotton, 20% polyester (fiber content may vary for heather colors)<br>.: Medium-heavy fabric (8.25 oz /yd² (280 g/m²))<br>.: Regular fit<br>.: Runs true to size<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>72127810004211770126</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>S / Military Green</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>27521936588629489588</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>S / Navy</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>46689792689613396920</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21979362400083468402</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>M / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33214537931142626406</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>M / Military Green</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>24271523882559401668</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>M / Navy</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>18835086263125815025</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29437143190914993413</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>L / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>69981347245726610799</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>L / Military Green</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>93622647537186654564</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>L / Navy</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>19821970770947213220</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>92960490314618944570</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15189308777702853200</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>XL / Military Green</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>24286288025407129187</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>XL / Navy</title>
+      <s:price currency="USD">51.25</s:price>
+      <s:sku>84039580865083259554</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>2XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28245043943750382822</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>2XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14044353561344729237</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>2XL / Military Green</title>
+      <s:price currency="USD">58.25</s:price>
+      <s:sku>14894195509534528010</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9608182530295</id>
+      <title>2XL / Navy</title>
+      <s:price currency="USD">58.25</s:price>
+      <s:sku>19254804082757546738</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9542751781111</id>
+    <published>2025-03-19T13:21:41-06:00</published>
+    <updated>2025-03-19T13:21:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-gorilla-and-bear-having-a-beautiful-night-at-the-cabin-hooded"/>
+    <title>Gorilla and bear having a beautiful night at the cabin - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/404960928290828719_2048.jpg?v=1747156758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The youth blend hooded sweatshirt is made of ultra-soft, preshrunk fleece that feels wonderful against the skin. The garment is 50% cotton 50% polyester with reduced lint buildup. This makes an excellent combination for printing. The front has a kangaroo pocket big enough for both hands. The neck is reinforced with twill taping. </p>
+<p>.: 50% cotton, 50% polyester (fiber content may vary for different colors)<br>.: Medium fabric (8.0 oz /yd² (271 g/m²))<br>.: Regular Fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Back-to-School</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Kids&apos; Clothing</s:tag>
+    <s:tag>Mother&apos;s Day</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>Sweatshirts</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>S / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13105252255701759734</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15798138975141287006</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>S / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33850312741008449552</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>S / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27020405542479152546</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>M / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26824682042482923362</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14112959628572837779</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>M / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17900539259225207226</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>M / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20733348579590391148</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>M / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22224408890555954115</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>L / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25703726812136475647</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17609031393953590743</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>L / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11072882875282884535</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>L / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>50438295951624042905</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>L / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25373388574338032505</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31490017912072722756</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29519715325457899296</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>39644769297994186414</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>68347556741094372667</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27184262786645531327</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12035143196370950446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>2XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>40107950331942861646</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>2XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>98696371811725256418</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30748195964222288177</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>2XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23887889054299572310</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>3XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23693898271902372972</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>3XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18038680382354925944</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>3XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32725342766239917499</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>3XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23027335042155876224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>3XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33462563762177814979</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>4XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32411078869671574750</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>4XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11700544338351832996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>4XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23844844699946457706</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>4XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12019621924106585568</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>5XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14033796373725635724</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542751781111</id>
+      <title>5XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30017548361717877408</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9618242765047</id>
+    <published>2025-03-07T21:03:29-06:00</published>
+    <updated>2025-03-07T21:03:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-insane-hoodie"/>
+    <title>Insane - Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/265203356467886956_2048.jpg?v=1747155683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Beat the cold with this premium pullover hoodie that’s just the right layer of warm and cozy. Made with three-panel fleece lining, this pullover is double stitched for durability and roomy. Pick one in your favorite color to match your style.</p>
+<p>.: 80% combed ring-spun cotton, 20% polyester (fiber content may vary for heather colors)<br>.: Medium-heavy fabric (8.25 oz /yd² (280 g/m²))<br>.: Regular fit<br>.: Runs true to size<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Long Sleeves</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Seasonal Picks</s:tag>
+    <s:tag>Spring Essentials</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33613844653937416893</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10723047086805493953</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25276259020976857050</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22356781876403683917</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14664609628202693164</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>53465184106231886007</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25003645668762503774</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27035163565729989072</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13338114389494520462</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11498157931492267461</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15946878687679471385</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>81449973276211395429</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19524920420533512763</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29038601219299704072</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30703649163903469256</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18807815097138601282</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18808458708725184171</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11014873403199516652</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16361534189099860640</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23405352231330734277</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>35679918812445850719</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10305052851530140883</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>52946474308104819302</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Athletic Heather / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>84566072168560333053</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22326328020198870611</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Charcoal Grey / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25250421829381620574</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618242765047</id>
+      <title>Black / 5XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15530301960428250182</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9592790286583</id>
+    <published>2025-03-07T20:46:20-06:00</published>
+    <updated>2025-03-07T20:46:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-canada-banff-2-hooded"/>
+    <title>Canada Banff -  3 - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/15628454617268718054_2048.jpg?v=1747155987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Meet the Gildan DryBlend® hooded sweatshirt. Made with a comfy fabric that is 50% cotton and 50% polyester, each sweatshirt comes with a 1x1 spandex rib for enhanced stretching and recovery. The classic midweight fabric is equipped with DryBlend® technology that wicks moisture and stays dry during peak performance. The spun yarn delivers a softer feel and reduced pilling. <br><p>.: 50% cotton, 50% polyester<br>.: Medium-heavy fabric (9 oz /yd² (310 g/m²))<br>.: Classic Fit<br>.: Tear-away label</p><p><b>EU representative</b>: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY</p><p><b>Product information</b>: Gildan 12500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC</p><p><b>Care instructions</b>: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean</p><p><b>EU representative</b>: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY</p><p><b>Product information</b>: Gildan 12500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC</p><p><b>Care instructions</b>: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean</p><p><b>EU representative</b>: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY</p><p><b>Product information</b>: Gildan 12500, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC</p><p><b>Care instructions</b>: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beff</s:tag>
+    <s:tag>Black and white</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Car</s:tag>
+    <s:tag>Colors</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Mountains</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>Traveling</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30615538403233375984</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Charcoal Grey / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29625160451691525716</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22739314655487185784</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18922441217834172163</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25768396992058203566</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19347136228895830888</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30794882034604076654</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16139106362649556220</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16914663588599136908</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592790286583</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12844659937421955513</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9542243746039</id>
+    <published>2025-03-07T20:46:19-06:00</published>
+    <updated>2025-03-07T20:46:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-smoothie-hooded"/>
+    <title>Classic cars In Cuba, Havana -  Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/12880647940825465026_2048.jpg?v=1747156683"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>8 - Classic cars In Cuba, Havana -  Hooded</p>
+<p> </p>
+<p> </p>
+<p><br><br>Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.</p>
+<p>.: 50% soft cotton, 50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17434185334393261527</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>97032052373503742088</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31840454999311170428</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>56566868048166049255</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28857456278355757278</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20690530878642629441</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26213060252852950063</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24551498371471102376</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9542243746039</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26846968055163280748</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9539795714295</id>
+    <published>2025-03-07T20:46:17-06:00</published>
+    <updated>2025-03-07T20:46:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-magic-hoodies-3"/>
+    <title>Magic - hoodies - 4</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/7959444999931015498_2048.jpg?v=1747156231"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beat the cold with this premium pullover hoodie that’s just the right layer of warm and cozy. Made with three-panel fleece lining, this pullover is double stitched for durability and roomy. Pick one in your favorite color to match your style. <br><p>.: 80% combed ring-spun cotton, 20% polyester (fiber content may vary for heather colors)<br>.: Medium-heavy fabric (8.25 oz /yd² (280 g/m²))<br>.: Regular fit<br>.: Runs true to size<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Long Sleeves</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Premium Apparel</s:tag>
+    <s:tag>Seasonal Picks</s:tag>
+    <s:tag>Spring Essentials</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>S / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31919841323965135764</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>S / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21088343445167316938</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>S / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27323824384003692422</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>M / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21076014205767810576</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>M / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19139328566741784245</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>M / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13601543875051193277</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>M / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31018152389317884085</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>L / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23554632129829541000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>L / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>97348874324998892000</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>L / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>91733761562355071156</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>L / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14447501938992566127</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>L / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>50886220497314765342</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31977868701300004996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22256834250457244927</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10500765966274622296</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31929503343363092519</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>2XL / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11440278024298595839</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>2XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23870495507301591965</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>2XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23295861232490870125</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>3XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21529299987329284915</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>3XL / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25095128357956436433</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>3XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11974859055909396208</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>3XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23608336743396936111</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>4XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24343905975786425564</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>4XL / Navy Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25204565282174077918</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>4XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31105146858960374392</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>4XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25309811282861286525</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>5XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>88196494239492869301</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539795714295</id>
+      <title>5XL / Royal</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>52052923781087853727</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9539774447863</id>
+    <published>2025-03-07T20:46:16-06:00</published>
+    <updated>2025-03-07T20:46:16-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-magic-supper-hoodie"/>
+    <title>Magic - 1 - Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/11188805741499083651_2048.jpg?v=1747156357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Beat the cold with this premium pullover hoodie that’s just the right layer of warm and cozy. Made with three-panel fleece lining, this pullover is double stitched for durability and roomy. Pick one in your favorite color to match your style. <br><p>.: 80% combed ring-spun cotton, 20% polyester (fiber content may vary for heather colors)<br>.: Medium-heavy fabric (8.25 oz /yd² (280 g/m²))<br>.: Regular fit<br>.: Runs true to size<br>.: Tear away label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Long Sleeves</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Premium Apparel</s:tag>
+    <s:tag>Seasonal Picks</s:tag>
+    <s:tag>Spring Essentials</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>S / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25514266472481380808</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20032782910626472586</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>S / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14916507013392726074</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>M / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14665168577095932161</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26182215012721961470</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>M / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22196958470512841869</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>M / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11261309234831790215</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>L / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28170689874344222728</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15837039252883999968</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>L / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29911055359369912221</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>L / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32057540041932369649</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15699682498711864493</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>46229293998390025173</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16336991032066914375</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27943855104056527836</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23700778869671259533</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>2XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>76726864693728061592</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30370236561838261191</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>2XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20461775075026418490</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>3XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14865032274604319228</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>3XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>50457472812545707106</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>3XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16304391889126687648</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>3XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31641614866322734500</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>4XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13989719196316977923</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>4XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20827986227933826860</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>4XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26719534399042062687</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9539774447863</id>
+      <title>5XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>82677266467712886723</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9546964009207</id>
+    <published>2025-02-24T04:37:29-06:00</published>
+    <updated>2025-02-24T04:37:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/8-rainbow-in-colorado-sooty"/>
+    <title>Rainbow in Colorado - Hoody</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/8793708167518113712_2048.jpg?v=1747156287"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.<br><p>.: 50% soft cotton,  50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31256839950456178928</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Charcoal Grey / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31191804851415804707</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Classic Pink / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>89742752938135941460</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>82383019171162821040</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33759621664335168512</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Classic Pink / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13931495381458249498</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31617335655501831886</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16930990108143664557</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Classic Pink / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15951102073489271775</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>36562164792824442073</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>71325982722785345573</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Classic Pink / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18769820345271460155</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15879035804750436807</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11997233970843458082</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9546964009207</id>
+      <title>Classic Pink / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10844385681082894293</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9592802476279</id>
+    <published>2025-02-24T04:36:23-06:00</published>
+    <updated>2025-02-24T04:36:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-canada-banff-2-hooded-1"/>
+    <title>Canada, Banff - 2 - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/13909278477858561915_2048.jpg?v=1747156161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.</p>
+<p>.: 50% soft cotton, 50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p>
+<p><strong>EU representative</strong>: HONSON VENTURES LIMITED, gpsr@honsonventures.com, 3, Gnaftis House flat 102, Limassol, Mesa Geitonia, 4003, CY</p>
+<p><strong>Product information</strong>: JERZEES 996MR, 2 year warranty in EU and Northern Ireland as per Directive 1999/44/EC</p>
+<p><strong>Care instructions</strong>: Machine wash: cold (max 30C or 90F), Non-chlorine: bleach as needed, Tumble dry: low heat, Do not iron, Do not dryclean</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banff</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Cars</s:tag>
+    <s:tag>Christmas</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Family</s:tag>
+    <s:tag>Gift</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Mountain</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:tag>SU</s:tag>
+    <s:tag>Travel</s:tag>
+    <s:tag>Truck</s:tag>
+    <s:tag>Wedding</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19335720333289966785</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Royal / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24519312909092781174</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29615032379076352449</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>67900697805094721204</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Royal / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16528213712817495224</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19602918351149735027</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10341526761431614184</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13955737048974037491</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Royal / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27023798993893876416</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>70726452261983887278</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31713394091772116190</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>67465025737505115123</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Royal / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10900683717408077900</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23006828167102754876</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>89035332983038901507</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19661250220814669824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12634664898216824703</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592802476279</id>
+      <title>Navy / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28121068452676933779</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9599071977719</id>
+    <published>2025-02-04T21:19:10-06:00</published>
+    <updated>2025-02-04T21:19:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-canada-banff-4-hooded"/>
+    <title>Canada Banff - 4 - Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/13082305524087490470_2048.jpg?v=1747176870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99 - 40.04
+            <a href="https://mrmtshirts.com/products/6-canada-banff-4-hooded">(28 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Enjoy the soft feeling of a JERZEES NuBlend® hooded sweatshirt 996MR. This Men's NUBLEND® Hooded Sweatshirt is pre-shrunk to maintain style without resulting in any unwanted surprises after washing. It’s made with a 50/50 blend of cotton and polyester. It sports a sizable front pouch pocket. Lastly, its high-stitch density makes for a smooth and vibrant printing surface.<br><p>.: 50% soft cotton,  50% polyester<br>.: Medium-heavy fabric (8.0 oz/yd² (271 g/m²))<br>.: Loose fit<br>.: Sewn in label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DTG</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Oversized</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>64791755742856639410</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>49066871743697195304</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Navy Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15458554276438505875</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30649315062721281660</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12651804567123039745</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31355860621858687950</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Navy Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10865734380889029605</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13901924100975884765</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25042895350262224375</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>28416508525608689069</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19307993528464948935</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Navy Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12701649742928410137</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30753451901261197965</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32704226781268881986</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25411435351211907667</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18313480955841074390</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25910966935733487387</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20218613423508861436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18709622473805985232</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>75732258501526952659</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Navy Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17095689239711457981</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>29497794122646134583</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>15243133997987675004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Athletic Heather / 3XL</title>
+      <s:price currency="USD">40.04</s:price>
+      <s:sku>13786696585505564171</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Black / 3XL</title>
+      <s:price currency="USD">40.04</s:price>
+      <s:sku>12626676307426227925</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Navy Heather / 3XL</title>
+      <s:price currency="USD">40.04</s:price>
+      <s:sku>10607598532323834060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">40.04</s:price>
+      <s:sku>24076526791205599256</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9599071977719</id>
+      <title>Charcoal Grey / 3XL</title>
+      <s:price currency="USD">40.04</s:price>
+      <s:sku>29243954121609552349</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9592783798519</id>
+    <published>2025-01-24T13:10:48-06:00</published>
+    <updated>2025-01-24T13:10:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/6-canada-banff-5-hoodie"/>
+    <title>Canada - Banff - 5  - Hoodie</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/16724021407831902157_2048_c5aea076-a2cb-400d-ba11-025f1f014b30.jpg?v=1747156093"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Hanes ComfortBlend® EcoSmart® unisex pullover hoodie is a great pick for any store. This regular fit, medium-weight hoodie features a spacious pocket in the front. It is made of a patented, low-pill, high-stitch-density fleece that results in a soft, quality garment. This hoodie has no tag on the neck label and is made with up to 5% recycled polyester from plastic bottles.<br><p>.: 50% cotton, 50% polyester (fiber content varies for different colors)<br>.: Medium fabric (7.8 oz/yd² (264 g/m²))<br>.: Regular fit<br>.: Fleece inside<br>.: Tag-free neck label<br>.: Made with up to 5% polyester created from recycled plastic bottles</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Banff</s:tag>
+    <s:tag>Black-and-white and white</s:tag>
+    <s:tag>Canada</s:tag>
+    <s:tag>Colors</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Heart</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>New Arrivals</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>27100218958639113004</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30100338068515964966</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / S</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19267580609613857439</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21715900322426961446</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32282430270839388051</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20103473489114671328</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20304669887786226840</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17641541783532717009</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>95467274191807594561</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>37783348778327105223</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / L</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19709828598608940391</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>89099112721025700510</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11915539189182552621</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20243063415660365698</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>31700064690037382782</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>75409674560068920876</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10483111222805201486</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / 2XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>13659121873467772315</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>67455960453547593530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>32654804617753681066</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>White / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23678670024602640654</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / 3XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>17898696906591246157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Athletic Heather / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>23905558133462021930</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Navy Heather / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19797421841616261830</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9592783798519</id>
+      <title>Charcoal Grey / 4XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16349063371053528175</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8165676941559</id>
+    <published>2024-04-08T14:44:41-06:00</published>
+    <updated>2024-04-08T14:44:41-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/unisex-hooded-sweatshirt-made-in-us"/>
+    <title>Magic  Hooded</title>
+    <s:type>Hoodie</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/12385102694664504574_2048.jpg?v=1747153915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hoodie<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Made with high-quality, heavy-weight fabric (80% cotton/20% polyester) that is pre-shrunk, this hooded sweatshirt will remain incredibly soft to the touch and will not shrink even after multiple washes. All hooded sweatshirts are unisex, come with a front muff pocket with matching drawstrings and are made in the US. <br><p>.: 80% cotton 20% polyester<br>.: Heavy fabric (9.5 oz /yd² (322 g/m²))<br>.: Classic fit<br>.: Sewn-in label<br>.: Made and assembled in the USA</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Assembled in the USA</s:tag>
+    <s:tag>Assembled in USA</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Eco-friendly</s:tag>
+    <s:tag>Hooded</s:tag>
+    <s:tag>Hoodies</s:tag>
+    <s:tag>Made in the USA</s:tag>
+    <s:tag>Made in USA</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>S / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24092388376907181217</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>20609825111767157141</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>S / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>62048159300289440862</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>M / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>10711755172144712103</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14567942175667254623</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>M / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19227079054190427376</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>M / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>70610879134794709064</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>L / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>14026652466867178822</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>98808279189616191996</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>L / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25841422343333410474</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>L / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19816558657297445163</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>94303377406241623281</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>18253637820697208939</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24703626761227136608</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>24870966305787391349</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>25752092941461383003</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12621771520041794733</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>2XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12671800068141555980</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>3XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22486472160042459964</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>3XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>16426084842939654945</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>3XL / White</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>42501873503359573379</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>3XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>72539437165440937917</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>4XL / Athletic Heather</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>60404042572732823590</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>4XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>12944766120941205464</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>4XL / Charcoal Grey</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>19858438368008871440</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8165676941559</id>
+      <title>5XL / Black</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>47715989140233903215</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

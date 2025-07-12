@@ -1,0 +1,2514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrmtshirts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrmtshirts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrmtshirts.com/collections/6-trippy.atom"/>
+  <title>MRM T-shirts</title>
+  <updated>2025-06-24T00:12:20-06:00</updated>
+  <author>
+    <name>MRM T-shirts</name>
+  </author>
+  <entry>
+    <id>https://mrmtshirts.com/products/9689946325239</id>
+    <published>2025-06-24T00:12:20-06:00</published>
+    <updated>2025-06-24T00:12:20-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/ai-training-bear-v-neck"/>
+    <title>Tranny Bear  -  V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/11539293858044969593_2048.jpg?v=1750745543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our stylish Unisex Jersey Short Sleeve V-Neck Tee, a perfect blend of comfort and fashion. This tee features a fun, eye-catching bear graphic that adds a playful touch to your wardrobe. Made from lightweight, breathable fabric, it’s ideal for year-round wear, whether you’re lounging at home, heading to a casual outing, or meeting friends for coffee. The V-neckline and retail fit give it a modern silhouette, making it a versatile choice for any occasion. Perfect for anyone who loves unique, whimsical designs, this tee makes a great gift for birthdays, celebrations, or just to brighten someone’s day. Celebrate the joy of everyday moments with this delightful addition to your collection!<br><br>Product features<br>- Side seams for durability and shape retention<br>- Elastic ribbed knit collar for comfort<br>- Shoulder tape for added stability<br>- Made from 100% cotton for a smooth feel<br>- Sustainably produced under humane practices<br><br>Care instructions<br>- Do not dryclean<br>- Machine wash: warm (max 40C or 105F)<br>- Non-chlorine: bleach as needed<br>- Tumble dry: low heat<br>- Iron, steam or dry: medium heat<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bear illustration</s:tag>
+    <s:tag>casual wear</s:tag>
+    <s:tag>cool v-neck tee</s:tag>
+    <s:tag>funny animal shirt</s:tag>
+    <s:tag>gift for her</s:tag>
+    <s:tag>gift for him</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>ice cream bear</s:tag>
+    <s:tag>nature lovers tee</s:tag>
+    <s:tag>quirky clothing</s:tag>
+    <s:tag>summer shirt</s:tag>
+    <s:tag>unisex fashion</s:tag>
+    <s:tag>wildlife apparel</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17632250173914384001</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30639820988811156166</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11117894331210007678</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24354942695709328214</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30631437833006768694</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12827168303528312433</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>96134530192888811611</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21257935234004980365</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>80247819052510622035</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21078702200246758162</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20265585698811806437</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28498942783020311069</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Asphalt / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24952089151239961163</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27517893296552956578</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9689946325239</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37725315053551008362</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9669018616055</id>
+    <published>2025-05-19T20:39:01-06:00</published>
+    <updated>2025-05-19T20:39:01-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/the-counts-feast-0-v-neck"/>
+    <title>The Count&apos;s Feast - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/3270891413390247479_2048.jpg?v=1747709915"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Experience comfort and style with this unisex jersey short sleeve v-neck tee. Perfect for casual outings or semi-formal gatherings, this tee brings a playful vibe to your wardrobe. The eye-catching design adds a unique touch, making it a fantastic conversation starter. Ideal for fans of whimsical fashion, it's a great gift for birthdays or holiday celebrations. Wear it during gatherings with friends or family for a lively atmosphere, or simply enjoy it on a relaxed day at home.<br><br>Product features<br>- Made with lightweight 100% cotton fabric for comfort<br>- Stylish v-neckline offers a modern silhouette<br>- Features durable side seams for shape retention<br>- Eco-friendly production, adhering to humane standards<br>- Tear-away label for added comfort.<br><br>Care instructions<br>- Do not dryclean<br>- Machine wash: warm (max 40C or 105F)<br>- Non-chlorine: bleach as needed<br>- Tumble dry: low heat<br>- Iron, steam or dry: medium heat<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>amusement park wear</s:tag>
+    <s:tag>family gathering tee</s:tag>
+    <s:tag>funny graphic shirt</s:tag>
+    <s:tag>game night apparel</s:tag>
+    <s:tag>geeky gift idea</s:tag>
+    <s:tag>graphic V-neck tee</s:tag>
+    <s:tag>Halloween T-shirt</s:tag>
+    <s:tag>kids birthday gift</s:tag>
+    <s:tag>movie night outfit</s:tag>
+    <s:tag>nostalgic clothing</s:tag>
+    <s:tag>playful tee design</s:tag>
+    <s:tag>unisex casual wear</s:tag>
+    <s:tag>vintage style tee</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14057017726116635551</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14505445894614625621</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Navy / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19036482540770342040</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>79918855414785664374</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16866472057706186455</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Navy / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29275816618223749588</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11546678663047079493</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32522456842824684958</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Navy / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30111883582515744175</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26423071784696807902</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24655289500157156647</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Navy / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>88993638444733471285</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>74362412822301234629</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9669018616055</id>
+      <title>Navy / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19781878844031948612</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9643901190391</id>
+    <published>2025-04-11T17:36:23-06:00</published>
+    <updated>2025-04-11T17:36:23-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-speaker-v-neck"/>
+    <title>Speaker - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/9652499976963407296_2048.jpg?v=1747153837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our stylish Unisex Jersey Short Sleeve V-Neck Tee, perfect for those who appreciate comfort without sacrificing style. This tee radiates a casual yet trendy vibe, making it an ideal addition to any wardrobe. Whether you're lounging at home, running errands, or enjoying a weekend outing, this versatile piece adapts to any occasion. Celebrate life’s moments, from casual gatherings to special celebrations, with a top that’s great for friends, family, or anyone who loves contemporary fashion. This tee is also a wonderful gift for holidays such as birthdays, Mother’s Day, and Father’s Day. Embrace comfort, sustainability, and style with a product that fits seamlessly into every lifestyle.<br><br>Product features<br>- Side seams provide structural support and maintain garment shape.<br>- Ribbed knit collar retains its shape and adds elasticity.<br>- Shoulder tape stabilizes seams and prevents stretching.<br>- Made for adults, ensuring a perfect fit for mature wearers.<br>- Crafted from lightweight, smooth 100% cotton for ultimate comfort.<br><br>Care instructions<br>- Do not dryclean<br>- Machine wash: warm (max 40C or 105F)<br>- Non-chlorine: bleach as needed<br>- Tumble dry: low heat<br>- Iron, steam or dry: medium heat<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>artistic design</s:tag>
+    <s:tag>casual wear</s:tag>
+    <s:tag>comfortable clothing</s:tag>
+    <s:tag>creative gift</s:tag>
+    <s:tag>eco friendly tee</s:tag>
+    <s:tag>everyday basics</s:tag>
+    <s:tag>gift for her</s:tag>
+    <s:tag>gift for him</s:tag>
+    <s:tag>graphic tee</s:tag>
+    <s:tag>minimalist style</s:tag>
+    <s:tag>summer fashion</s:tag>
+    <s:tag>trendy apparel</s:tag>
+    <s:tag>unisex t-shirt</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23999693455748007881</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>43919401064128938928</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>94696639774516849072</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32073579897705761471</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12421344752862125887</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>95404188445781793674</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29327739473238976357</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26705004608751904475</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>67395562238553389076</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33589273729645429653</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>62211660147159633790</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23428572111760620424</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16468814133131689072</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16574113622854578455</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>51480826091618995724</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14726160595424055299</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12109079694367249769</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23784241473831209214</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9643901190391</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20537868311111986150</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9617455218935</id>
+    <published>2025-03-12T15:52:05-06:00</published>
+    <updated>2025-03-12T15:52:05-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-graphic-1-wizard-t-shirt"/>
+    <title>Graphic - 1 - Wizard T-Shirt</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/6451307109157966487_2048.jpg?v=1747175666"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your casual style with this vibrant Color Blast T-Shirt, perfect for expressing creativity and individuality. The unique pigment-dye technique ensures that each piece boasts its own striking character, making this t-shirt a statement in any wardrobe. Ideal for those looking to make a splash at festivals, parties, or cozy gatherings, this versatile piece fits seamlessly into both relaxed and trendy outfits. Whether you’re gifting it for a birthday, celebrating milestones, or simply enjoying a day with friends, this shirt radiates fun and flair. Perfect for art lovers, fashion enthusiasts, and anyone who embraces boldness!<br><br>Product features<br>- Durable double needle stitching for longevity<br>- Soft and strong 100% ring-spun cotton fabric<br>- Comfortable neck tape to prevent stretching<br>- Unique garment-dyed color blast effect<br>- Relaxed fit for everyday wear<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Tumble dry: low heat<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artistic Design Tee</s:tag>
+    <s:tag>Casual Wear</s:tag>
+    <s:tag>Colorful T-Shirt</s:tag>
+    <s:tag>Comfortable Outfit</s:tag>
+    <s:tag>Fantasy Fashion</s:tag>
+    <s:tag>Fun Summer Shirt</s:tag>
+    <s:tag>Geek Fashion Shirt</s:tag>
+    <s:tag>Gift for Friends</s:tag>
+    <s:tag>Graphic Tee</s:tag>
+    <s:tag>Modern Clothing</s:tag>
+    <s:tag>Stylish Statement</s:tag>
+    <s:tag>Unique Apparel</s:tag>
+    <s:tag>Unisex Style</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32923315875789799284</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11233180750153832564</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23451483612292532326</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24617254599010360377</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11491349951061223187</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22884787300207788116</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19454282722353107297</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>72944364279841288196</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15564304007938884822</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9617455218935</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11983421959213138670</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9618210324727</id>
+    <published>2025-03-07T21:03:27-06:00</published>
+    <updated>2025-03-07T21:03:27-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-lightning-girl-v-neck"/>
+    <title>Lightning girl  - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/1797806335226349442_2048.jpg?v=1747168776"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">Lightning girl</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“Her whole life, Mallory was made fun of to her classmates.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">Everything she wore was a hand me down from her big sister.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">One day, the girls in her class made fun of her so loud that the whole school laughed.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It was at this point that she snapped her anger opened up some thing that she never knew that she had with her anger.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;"> Lightning came from her hands and picked her up from the ground. She decided to change.”</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<ul class="ul1" style="list-style-type: '—  '; -webkit-text-size-adjust: auto;">
+<li class="li1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">MRM</span></li>
+</ul>
+<p> </p>
+<p><br>Looking good on both men and women, this soft jersey tee is comfortable enough to wear all day long. High quality print will make it an instant favorite in every wardrobe.</p>
+<p>.: The lightweight fabric (4.2 oz/yd² (142 g/m²)) makes this shirt a versatile choice for any season while the 100% cotton fabric ensures a smooth, comfortable wearing experience.<br>.: The retail fit along with the V-neckline ensure a stylish silhouette and a trendy, versatile appearance in any setting, whether casual or semi-formal.<br>.: Bella+Canvas is part of the Fair Labor Association and is Platinum WRAP certified. This means all blank products manufactured in the US and internationally are made in humane, sustainable way, under a strict no-sweatshop policy. <br>.: All tees come with a tear-away label.<br>.: Fabric blend: Heather colors - 52% cotton, 48% polyester; Athletic Heather is 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>AI</s:tag>
+    <s:tag>Colors</s:tag>
+    <s:tag>Cotton</s:tag>
+    <s:tag>Downtown city</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Electricity</s:tag>
+    <s:tag>Flying</s:tag>
+    <s:tag>Horror scared angry</s:tag>
+    <s:tag>Lightning thunder rain</s:tag>
+    <s:tag>Little girl</s:tag>
+    <s:tag>Mag</s:tag>
+    <s:tag>Magic</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:tag>Valentine&apos;s Day Picks</s:tag>
+    <s:tag>Witch</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14789510824297488540</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31251897547430140976</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>35573809977161325108</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>86753702461926278728</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29803292459092939323</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26459888882691411038</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>83861368815466880112</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14802828031593246710</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17063174554176011398</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26537297021412137610</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>82797269594592600060</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16213757463614210631</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18262827287300440016</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20546556459268308699</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25940722627632849348</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618210324727</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26263903274828038644</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9618208620791</id>
+    <published>2025-03-07T21:03:24-06:00</published>
+    <updated>2025-03-07T21:03:24-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-salvador-dali-v-neck"/>
+    <title>Salvador Dali - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/2052973762199042715_2048.jpg?v=1747160880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The Bella+Canva 3005 brings all-day comfort and incredible style to any wardrobe. These custom v-neck t-shirts come with a stylish V-cut and are made with a lightweight fabric that is highly breathable making it a comfy choice for any casual outing. All tees are manufactured in the US under Fair Labor Association rules for total peace of mind and garments that look good and feel good to wear. <br><p>.: The lightweight fabric (4.2 oz/yd² (142 g/m²)) of these custom v-neck t-shirts makes them a versatile choice for any season while the 100% cotton fabric ensures a smooth, comfortable wearing experience.<br>.: The retail fit along with the V-neckline ensure a stylish silhouette and a trendy, versatile appearance in any setting, whether casual or semi-formal.<br>.: Bella+Canvas is part of the Fair Labor Association and is Platinum WRAP certified. This means all custom v-neck t-shirts manufactured in the US and internationally are made in a humane, sustainable way, under a strict no-sweatshop policy.<br>.: All Bella+Canvas 3005 t-shirts come with a tear-away label.<br>.: Fabric blend: Heather colors - 52% cotton, 48% polyester; Athletic Heather is 90% cotton, 10% polyester.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Unisex</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:tag>Valentine&apos;s Day Picks</s:tag>
+    <s:tag>Women&apos;s Clothing</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30108536399353752096</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21717037782637977436</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14111942213727969357</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29402082572919956678</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21940475202261680141</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>45302831705350146378</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13656295960807673229</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25451802556652857530</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27115933538006049299</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29598640602204250764</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>66528463848448096675</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21896239736232846363</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15624067684244378474</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33463589086812321189</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208620791</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>98058602704599094576</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9618203836663</id>
+    <published>2025-03-07T21:01:29-06:00</published>
+    <updated>2025-03-07T21:01:29-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/3-ai-bees-and-cabin-v-neck"/>
+    <title>Bees and cabin - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/3522299849617443800_2048.jpg?v=1747170759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The men's fitted v-neck short sleeve tee adds a more nuanced look to the classic tee. The fabric is 100% cotton for solid colors, others will contain polyester.  Perfect for any occasion, these custom tees are built without any side seams. The shoulders have twill tape for improved durability. The v-neck collar is ribbed knitting, so the fabric is unlikely to curl. <br><p>.: 100% ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi fitted<br>.: Tear away label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12211488512309737653</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>S / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21897198373504036723</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>52177002975046672823</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>M / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>58083262591938797205</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11190497494338762972</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>L / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13468517861529574338</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16300691772148179128</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19220215545767917285</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>2XL / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11023108027192789755</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618203836663</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12897490712960346851</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9618208817399</id>
+    <published>2025-03-07T20:45:21-06:00</published>
+    <updated>2025-03-07T20:45:21-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-gorilla-and-bear-in-love-at-the-cabin-v-neck"/>
+    <title>Gorilla and bear in love at the cabin - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/3294291248128545077_2048.jpg?v=1747168498"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The men's fitted v-neck short sleeve tee adds a more nuanced look to the classic tee. The fabric is 100% cotton for solid colors, others will contain polyester. Perfect for any occasion, these custom tees are built without any side seams. The shoulders have twill tape for improved durability. The v-neck collar is ribbed knitting, so the fabric is unlikely to curl. </p>
+<p>.: 100% ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi fitted<br>.: Tear away label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>S / Sport Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26330293231226806476</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>S / Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28144328874121070029</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>M / Sport Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20277484071643250328</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>M / Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18830419380955443914</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>L / Sport Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19983004824983948536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>L / Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23592419331553879824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21074570390846885360</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>2XL / Sport Grey</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26127297161261689345</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9618208817399</id>
+      <title>2XL / Black</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14232388610317939571</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8376913330423</id>
+    <published>2025-03-02T05:10:14-06:00</published>
+    <updated>2025-03-02T05:10:14-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/3-ai-gorilla-chainsaw-massacre-v-neck"/>
+    <title>Gorilla Chainsaw Massacre - V-neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/3321042598014701054_2048.jpg?v=1747170603"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">Gorilla Chainsaw Massacre</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">"Six youse ago, a baby gorilla was taken from the jungle, and sold to an animal park.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">The owner of the park screamed at him every night.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">One day, a kid threw a rock really hard at him and hit him in the eye.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">He jumped over the railing, found a chainsaw, and the rest is history.”</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">-MRM</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span style="font-size: 19.1px;">The men's fitted v-neck short sleeve tee adds a more nuanced look to the classic tee. The fabric is 100% cotton for solid colors, others will contain polyester. Perfect for any occasion, these custom tees are built without any side seams. The shoulders have twill tape for improved durability. The v-neck collar is ribbed knitting, so the fabric is unlikely to curl.</span></p>
+<p>.: 100% ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi fitted<br>.: Tear away label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gorilla</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>S / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>78241197827237906425</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>S / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32569142201088771109</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>M / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13990514989738283746</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>M / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27438628404844923049</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>L / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16486287241915013945</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>L / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25269373448872453512</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27631449386838112643</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24133717828109965336</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>2XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32341550911938992223</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8376913330423</id>
+      <title>2XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24465046175638094951</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8380346138871</id>
+    <published>2025-03-02T05:02:53-06:00</published>
+    <updated>2025-03-02T05:02:53-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/3-smoothie-mens-fitted-v-neck"/>
+    <title>Smoothie? -   V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/1965197012602694913_2048.jpg?v=1747169744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The men's fitted v-neck short sleeve tee adds a more nuanced look to the classic tee. The fabric is 100% cotton for solid colors, others will contain polyester.  Perfect for any occasion, these custom tees are built without any side seams. The shoulders have twill tape for improved durability. The v-neck collar is ribbed knitting, so the fabric is unlikely to curl. <br><p>.: 100% ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi fitted<br>.: Tear away label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>S / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28851257297410619626</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>S / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19173330843631871503</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>S / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22568231420042484304</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>S / Ash</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18054923935830057782</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>M / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19162690645624991090</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>M / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>84007573445324828838</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>M / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28980084496237488581</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>M / Ash</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20702601200342828087</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>L / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12288726536554902765</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>L / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41579606626090304152</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>L / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>40913120423077810749</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>L / Ash</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21596956522153853049</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>38597892971699117526</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25691725666152089098</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21991080799391548507</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>XL / Ash</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19945596325160560248</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>2XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30273484009019726750</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>2XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>90421276260250166441</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>97230257982746662789</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380346138871</id>
+      <title>2XL / Ash</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27799477038461885586</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9601881637111</id>
+    <published>2025-03-02T04:09:10-06:00</published>
+    <updated>2025-03-02T04:09:10-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-maallory-2-v-neck"/>
+    <title>Matory  -  2 - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/17784668408832884320_2048.jpg?v=1747172491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing a stylish Men’s V-Neck, perfect for anyone looking to elevate their casual wardrobe. This shirt exudes effortless coolness, making it a versatile addition to your daily outfits. Crafted with 100% organic cotton, it offers a luxuriously soft feel against the skin, ideal for all-day wear. The light fabric and regular fit provide comfort without compromising on style, making it an excellent choice for lounging at home or stepping out with friends. This piece is especially relevant for car enthusiasts and fashion-forward individuals seeking that classic look. Perfect for summer outings, casual gatherings, or simply relaxing at home, this V-neck is a great gift for birthdays, Father’s Day, or any celebratory occasion. Embrace sustainability while showcasing your personal style!<br><br>Product features<br>- 100% organic cotton for a soft, comfortable feel<br>- Side seams provide structural support and help retain shape<br>- Elastic ribbed knit collar maintains its shape over time<br>- Self-fabric necktape ensures comfort and prevents stretching<br>- Lightweight fabric perfect for warm weather wear<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Dark Grey Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29625075504902477518</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>72418359692272265472</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12083750565405391058</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Dark Grey Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13877072317227402929</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21737681456611298859</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19610460151398957290</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Dark Grey Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25660877147278513881</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27936043874662552887</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17671991689651722321</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Dark Grey Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33741392732612042074</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16954847426582971108</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31286444385698875171</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Dark Grey Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27122015763932957166</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>37971222001982979322</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601881637111</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26684740001678291767</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9607321944311</id>
+    <published>2025-03-02T03:04:28-06:00</published>
+    <updated>2025-03-02T03:04:28-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-1973-chevy-chevelle-malibu-super-sport-v-neck"/>
+    <title>Malery 1973 Chevie Malipu Super Sport - V-neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/18023034166928955102_2048.jpg?v=1747171627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your wardrobe with this stylish Men’s Presenter V-neck. Crafted from 100% organic cotton, this shirt provides a warm and flexible feel that’s perfect for layering or wearing solo. Its lightweight fabric makes it ideal for casual outings or lounging at home, bringing comfort and style into your everyday life. Suitable for all seasons, this shirt works beautifully for gatherings, holidays, and relaxed celebrations. Perfect for eco-conscious individuals who appreciate quality and sustainability, this piece adds a touch of effortless cool to any outfit.<br><br>Product features<br>- 100% organic cotton for ultimate comfort<br>- Side seams for enhanced shape retention<br>- Ribbed knit collar for elasticity<br>- Self-fabric necktape for a smooth finish<br>- Regular fit perfect for layering<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>81738971355055594343</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22038917870877508659</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Black / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11024047344402245121</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>63024766197017492187</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30916040649008229625</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20063758191016585676</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Black / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18334769285017276865</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13102887192979769052</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22091524432982729115</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>61705675000499607443</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Black / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>28677871951746220741</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41466450375220111486</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>36745722546714953974</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20365455970576068885</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12290424894446577636</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27700519225651986241</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10852114136487047784</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>Black / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16861977046130393691</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9607321944311</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17532134495772455609</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9601905393911</id>
+    <published>2025-02-16T20:35:13-06:00</published>
+    <updated>2025-02-16T20:35:13-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-musik-1-v-neck"/>
+    <title>Music - 1 - AI - V-neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/12903163655707951596_2048.jpg?v=1747175816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our Men’s V-neck T-Shirt, the perfect blend of comfort and style that adds a touch of elegance to any casual outfit. Crafted from 100% organic cotton, this shirt envelops you in warmth while providing a flexible fit that moves with you. Ideal for music lovers and creatives, this shirt showcases a unique design that resonates with your passion. Wear it during relaxed gatherings, casual outings, or while enjoying your favorite tunes at home. This shirt makes a thoughtful gift for birthdays, music festivals, or just because! Embrace a relaxed vibe while staying chic and eco-friendly with this exceptional V-neck. Perfect for adults who appreciate quality and sustainability in their wardrobe.<br><br>Product features<br>- 100% organic cotton for softness and comfort<br>- Side seams provide shape retention and structure<br>- Ribbed knit collar retains elasticity and shape<br>- Self fabric necktape for added comfort and durability<br>- Lightweight fabric suitable for year-round wear<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Birthday Gift Idea</s:tag>
+    <s:tag>Casual Music Wear</s:tag>
+    <s:tag>Concert Outfit Idea</s:tag>
+    <s:tag>Gift for Musicians</s:tag>
+    <s:tag>Graphic V-neck Tee</s:tag>
+    <s:tag>Men&apos;s Casual Wear</s:tag>
+    <s:tag>Men&apos;s Music T-shirt</s:tag>
+    <s:tag>Music Lover Shirt</s:tag>
+    <s:tag>Music Themed Shirt</s:tag>
+    <s:tag>Stylish V-neck Top</s:tag>
+    <s:tag>Trendy Music Apparel</s:tag>
+    <s:tag>Unique Music Gift</s:tag>
+    <s:tag>V-neck Music Shirt</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Asphalt / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24468785553266949111</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24917413534872129311</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>30630568991382710291</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Asphalt / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15487574743492624061</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>41754939299407405319</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29339233209336298127</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Asphalt / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18232026362046084157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>92150096360830952818</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>38319905743903366469</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Asphalt / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>91873903103047390748</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33920887812783670327</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27529810618625066138</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>77181383144544541728</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601905393911</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22176527722134357384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9601864106231</id>
+    <published>2025-02-11T00:19:17-06:00</published>
+    <updated>2025-02-11T00:19:17-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-ppeople-2-ai-v-neck"/>
+    <title>People - 2 - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/13303751495038668821_2048.jpg?v=1747171692"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing the perfect addition to your wardrobe: a stylish Men’s V-neck T-shirt that seamlessly blends comfort and sustainability. Made from 100% organic cotton, this T-shirt is soft, warm, and stretchy, making it your go-to choice for layered looks or casual outings. Its relaxed fit allows for effortless styling, while the ribbed knit collar and self-fabric necktape ensure durability and comfort for all-day wear.<br><br>This T-shirt is ideal for adults who appreciate eco-friendly fashion and want to make a statement. Its unique design adds a modern touch, making it great for casual gatherings, weekend outings, or festive occasions like birthdays and casual family reunions.<br><br>Celebrate your everyday style with this versatile piece that resonates with both your values and sense of fashion.<br><br>Product features<br>- 100% Organic Cotton for eco-friendly comfort<br>- Side seams for added structural support<br>- Elastic ribbed knit collar that retains shape<br>- Self fabric necktape for stabilization<br>- Regular fit, perfect for everyday wear<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Artistic shirt</s:tag>
+    <s:tag>Casual wear</s:tag>
+    <s:tag>Comfortable clothing</s:tag>
+    <s:tag>Cool apparel</s:tag>
+    <s:tag>Everyday outfit</s:tag>
+    <s:tag>Gift for him</s:tag>
+    <s:tag>Graphic tee</s:tag>
+    <s:tag>Men&apos;s fashion</s:tag>
+    <s:tag>Men&apos;s wardrobe</s:tag>
+    <s:tag>Street style</s:tag>
+    <s:tag>Stylish tee</s:tag>
+    <s:tag>Unique design</s:tag>
+    <s:tag>V-neck shirt</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>93646899640151318646</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Team Purple / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>52711327665390744086</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>25064739371381848260</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19090341035809288789</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Team Purple / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11348232749887509497</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>73020995603185933824</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16718543368372262083</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Team Purple / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12628980222421672223</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23906554140083428551</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26105842134842581550</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Team Purple / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29665211644472928921</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22728573462543989864</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11162080932764765198</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>Team Purple / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>94767562815448608807</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9601864106231</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23139446875111322275</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9603015868663</id>
+    <published>2025-02-10T01:03:07-06:00</published>
+    <updated>2025-02-10T01:03:07-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/4-broken-resident-frequencies-1-ai-v-neck"/>
+    <title>Soundwave Graphic  - 1 -  V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/9723877803988562355_2048.jpg?v=1747176213"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Introducing our Men’s V-neck T-Shirt, perfect for those who appreciate comfort and style. Made from 100% organic cotton, this shirt feels soft against the skin and offers a warm, yet flexible fit. The sleek design and modern vibes make it a versatile addition to any wardrobe. Ideal for casual outings or cozy nights in, it’s great for lovers of sustainability and fashion alike.<br><br>This shirt is perfect for adults seeking a laid-back aesthetic and can easily transition from day to night. Wear it to celebrate holidays like Earth Day with pride, or simply as a daily reminder of your commitment to eco-friendliness. The stylish ribbed collar and structured seams ensure that it holds its shape while enhancing your silhouette.<br><br>Whether you’re gifting it for birthdays or just because, this V-neck is sure to delight anyone who loves unique, practical fashion with a conscience.<br><br>Product features<br>- Made from 100% organic cotton for maximum comfort<br>- Features side seams for a better, longer-lasting fit<br>- Ribbed knit collar retains shape beautifully<br>- Self fabric necktape enhances comfort and stability<br>- Lightweight fabric (4.57 oz/yd²) for a relaxed feel<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Casual Wear</s:tag>
+    <s:tag>Cool Graphic T-shirt</s:tag>
+    <s:tag>Everyday Casual Wear</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Graphic Tee</s:tag>
+    <s:tag>Men&apos;s V-neck Shirt</s:tag>
+    <s:tag>Modern Graphic Tee</s:tag>
+    <s:tag>Music Lover Gift</s:tag>
+    <s:tag>Relaxed Fit Shirt</s:tag>
+    <s:tag>Stylish Top</s:tag>
+    <s:tag>Trendy T-shirt</s:tag>
+    <s:tag>Unique V-neck Tee</s:tag>
+    <s:tag>Wave Design Shirt</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>Athletic Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22342914815769612324</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13325320010847711413</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>Athletic Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22138222218049008643</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21146955582092360665</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>Athletic Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21862713703938749051</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29344539792255657318</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>Athletic Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>85985237165416173107</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23306921754978530775</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>Athletic Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17945230720686815068</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9603015868663</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12931473371507845340</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9593460162807</id>
+    <published>2025-01-31T23:00:48-06:00</published>
+    <updated>2025-01-31T23:00:48-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/1-futer-love-v-neck"/>
+    <title>Futer love - V-neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/15858417288034188366_2048.jpg?v=1747171325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The organic men’s v-neck t-shirt you’ve been waiting for. With a necktape covered collar seam to withstand multiple washings without losing shape, this comfortable t-shirt also features set-in sleeve hems and a bottom hem with a narrow double topstitch. Made for effortless and durable style, this is truly the organic v-neck t-shirt you need. <br>NB! Please note that EU-based Print Providers use European sizes in their blanks. Kindly double-check our size chart at the bottom of our listing to ensure an accurate fit.</p>
+<p>.: 100% organic combed ringspun cotton<br>.: Light fabric (4.57 oz/yd² (155 g/m²))<br>.: Regular fit<br>.: Sewn in label</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Eco-friendly</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Neck Labels</s:tag>
+    <s:tag>Organic</s:tag>
+    <s:tag>Premium Apparel</s:tag>
+    <s:tag>Recycled</s:tag>
+    <s:tag>Sustainable</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Deep Heather / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14627003482018254267</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>White / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31969828600887504415</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Ash / S</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14929457593261659896</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Deep Heather / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26264927291920979485</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>White / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26069157554657924261</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Ash / M</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23168722998295783723</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Deep Heather / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17780044627652699127</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>White / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>75838651818719644757</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Ash / L</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>59299929321972293991</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Deep Heather / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>98741288505280371586</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>White / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>22048943486460215802</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Ash / XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>18786244284496861492</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Deep Heather / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15030172417686000878</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>13136145198666570510</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9593460162807</id>
+      <title>Ash / 2XL</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>17959620577447073457</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9597054353655</id>
+    <published>2025-01-31T18:01:57-06:00</published>
+    <updated>2025-01-31T18:01:57-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/3-lightning-girl-v-neck-1"/>
+    <title>Lightning girl - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/9517800838696757528_2048.jpg?v=1747171355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">Lightning girl</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">“Her whole life, Mallory was made fun of to her classmates.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">Everything she wore was a hand me down from her big sister.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">One day, the girls in her class made fun of her so loud that the whole school laughed.  </span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">It was at this point that she snapped her anger opened up some thing that she never knew that she had with her anger.</span></p>
+<p class="p1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; -webkit-text-size-adjust: auto;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;"> Lightning came from her hands and picked her up from the ground. She decided to change.”</span></p>
+<p class="p2" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal; min-height: 24.7px; -webkit-text-size-adjust: auto;"> </p>
+<ul class="ul1" style="list-style-type: '—  '; -webkit-text-size-adjust: auto;">
+<li class="li1" style="margin: 0px; font-stretch: normal; font-size: 19.1px; line-height: normal; font-size-adjust: none; font-kerning: auto; font-variant-alternates: normal; font-variant-ligatures: normal; font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-position: normal; font-feature-settings: normal; font-optical-sizing: auto; font-variation-settings: normal;"><span class="s1" style="font-family: UICTFontTextStyleBody; font-size: 19.08px;">MRM</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>S / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27310700261893536815</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>S / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33335862591782524609</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>M / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24499637425544797323</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>M / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14911414142621736134</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>L / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>16864391242032342966</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>L / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19151258694755589453</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>XL / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33569832199100651284</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12597280368419449272</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>2XL / Athletic Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21438285209547638976</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9597054353655</id>
+      <title>2XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>27604480575240299972</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/8380367798519</id>
+    <published>2024-09-27T22:54:15-06:00</published>
+    <updated>2024-09-27T22:54:15-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/3-ai-gorilla-and-bear-at-the-cabin-v-neck"/>
+    <title>Gorilla and bear at the cabin - V-Neck</title>
+    <s:type>V-neck</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/1835195838787105531_2048.jpg?v=1747173237"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>V-neck<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">The men's fitted v-neck short sleeve tee adds a more nuanced look to the classic tee. The fabric is 100% cotton for solid colors, others will contain polyester.  Perfect for any occasion, these custom tees are built without any side seams. The shoulders have twill tape for improved durability. The v-neck collar is ribbed knitting, so the fabric is unlikely to curl. <br><p>.: 100% ring-spun cotton (fiber content may vary for different colors)<br>.: Light fabric (4.5 oz/yd² (153 g/m²))<br>.: Semi fitted<br>.: Tear away label<br>.: Runs true to size</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cotton</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Regular fit</s:tag>
+    <s:tag>T-shirts</s:tag>
+    <s:tag>V-neck</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>S / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21881479716740706127</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>S / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>24371280095705909595</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>S / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10429814232313089785</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>S / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11821020090950072181</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>M / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11673850717494775712</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>M / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>38696969182557142517</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>M / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>33248733446684626916</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>M / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>31146083660488865178</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>L / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>14889173392898140977</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>L / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>83225174844991943221</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>L / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>57144298921711089715</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>L / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>15608595905210292401</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>12917402776993940548</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>29105019779608838387</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>XL / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>32814085185997848236</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11656830121842336234</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>2XL / Dark Grey Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20311695881316542157</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>2XL / Deep Heather</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>20933841858010009310</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>2XL / Navy</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>90775276037051347556</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/8380367798519</id>
+      <title>2XL / White</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>21758512222806389562</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>

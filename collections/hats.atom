@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mrmtshirts.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mrmtshirts.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mrmtshirts.com/collections/hats.atom"/>
+  <title>MRM T-shirts</title>
+  <updated>2025-06-29T23:03:19-06:00</updated>
+  <author>
+    <name>MRM T-shirts</name>
+  </author>
+  <entry>
+    <id>https://mrmtshirts.com/products/9732996169975</id>
+    <published>2025-06-29T23:03:19-06:00</published>
+    <updated>2025-06-29T23:03:19-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/mrm-logo-heart"/>
+    <title>MRM logo  - Heart</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/17791631782017267656_2048.jpg?v=1751259808"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            19.38
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Step out in style with these trendy trucker caps, perfect for adding flair to any outfit. Designed for those who appreciate vibrant looks, each cap combines a classic silhouette with vivid printed designs that resist fading. Whether you’re lounging at a summer festival, hitting the beach, or enjoying a casual day out, these caps provide the perfect blend of comfort and style. Ideal for adults, they’re great gifts for birthdays, outdoor adventures, or just because! Choose from seven exciting color combinations to match your unique personality. Embrace the laid-back vibe with a touch of modern design!<br><br>Product features<br>- Adjustable strap closure for a perfect fit (20" to 24")<br>- Vibrant colors that resist fading with professional printing<br>- Color-matched features for a cohesive look<br>- Available in seven stylish color combinations<br>- Made from 100% polyester foam front with nylon mesh back<br><br>Care instructions<br>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baseball hat</s:tag>
+    <s:tag>Casual Headwear</s:tag>
+    <s:tag>casual wear hat</s:tag>
+    <s:tag>Custom Caps</s:tag>
+    <s:tag>customizable hat</s:tag>
+    <s:tag>DTG</s:tag>
+    <s:tag>Everyday Fashion</s:tag>
+    <s:tag>Everyday Hat</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Graphic Caps</s:tag>
+    <s:tag>hiking hat</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Outdoor Accessories</s:tag>
+    <s:tag>Sporty Accessories</s:tag>
+    <s:tag>structured hat</s:tag>
+    <s:tag>Stylish Caps</s:tag>
+    <s:tag>Summer Hat</s:tag>
+    <s:tag>Sun Protection</s:tag>
+    <s:tag>team spirit hat</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Trendy Hats</s:tag>
+    <s:tag>Trucker Caps</s:tag>
+    <s:tag>Trucker Hat</s:tag>
+    <s:tag>unique hat design</s:tag>
+    <s:tag>Unique Headwear</s:tag>
+    <s:tag>Vintage Style</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9732996169975</id>
+      <title>Black / One size</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>69049458341212957451</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9732996169975</id>
+      <title>Pink / One size</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>25114020075097070039</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9732996169975</id>
+      <title>Blue/Red / One size</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>57221073157635169058</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9732996169975</id>
+      <title>Dark Green / One size</title>
+      <s:price currency="USD">19.38</s:price>
+      <s:sku>16881335386343009163</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9726760091895</id>
+    <published>2025-06-26T14:18:39-06:00</published>
+    <updated>2025-06-26T14:18:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/united-states-of-america-flag-hat"/>
+    <title>U.S.A. Flag  - Hat</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/4530703443608707452_2048.jpg?v=1751258766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Elevate your style with this stylish Closed-Back Structured Cap. Perfect for outdoor adventures or casual outings, this cap combines comfort and flair effortlessly. The classic design adds a touch of sophistication to any outfit, making it suitable for a variety of occasions. Whether you're celebrating Independence Day, enjoying a day at the beach, or simply wanting to enhance your everyday look, this cap is your go-to accessory. Ideal for anyone who enjoys outdoor activities, sports events, or just wants a chic accessory to complete their outfit. Embrace a fashionable and functional vibe that enhances your casual wardrobe!<br><br>Product features<br>- Stylish six-panel structure with an eyelet on each panel for breathability.<br>- Curved visor features eight rows of stitching for durability.<br>- Stretchy band ensures a comfortable one-size-fits-most fit.<br>- Made from a blend of polyester, cotton, and spandex for a soft feel.<br>- Sleek silver undervisor adds a unique touch and reduces glare.<br><br>Care instructions<br>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>baseball hat</s:tag>
+    <s:tag>casual wear hat</s:tag>
+    <s:tag>custom caps</s:tag>
+    <s:tag>customizable hat</s:tag>
+    <s:tag>embroidered cap</s:tag>
+    <s:tag>Everyday Hat</s:tag>
+    <s:tag>flag design cap</s:tag>
+    <s:tag>gift for dad</s:tag>
+    <s:tag>gifts for men</s:tag>
+    <s:tag>hiking hat</s:tag>
+    <s:tag>outdoor cap</s:tag>
+    <s:tag>patriotic cap</s:tag>
+    <s:tag>sports cap</s:tag>
+    <s:tag>structured hat</s:tag>
+    <s:tag>summer accessories</s:tag>
+    <s:tag>Summer Hat</s:tag>
+    <s:tag>Trucker Hat</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>White / S/M</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>31214187080018646699</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Dark Grey / S/M</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>29198168114843866972</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Grey / S/M</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>25750528690420239761</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Multicam Green / S/M</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>27015159927301335379</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>White / L/XL</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>22909376340668645343</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Dark Grey / L/XL</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>17083318263025705389</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Grey / L/XL</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>15491883506937642397</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9726760091895</id>
+      <title>Multicam Green / L/XL</title>
+      <s:price currency="USD">34.99</s:price>
+      <s:sku>49158369657831368641</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9692196536567</id>
+    <published>2025-06-26T07:25:39-06:00</published>
+    <updated>2025-06-26T07:25:39-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/gras-wifeie"/>
+    <title>Grass -  Wifey</title>
+    <s:type>Tank Top</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/12447489940566767002_2048.jpg?v=1750944341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Tank Top<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Discover the perfect blend of comfort and style with this Unisex Softstyle™ Tank Top. Ideal for warm weather, it exudes a relaxed and carefree vibe, making it a must-have for your casual wardrobe. Whether you're lounging at home, hitting the gym, or enjoying a sunny day outdoors, this tank top will seamlessly fit into your lifestyle. Designed for everyone, it’s perfect for both men and women who appreciate simplicity and quality. Great for summer gatherings, beach outings, or casual celebrations like BBQs and family picnics, it's a versatile piece for any occasion!<br><br>Product features<br>- Made from solid colors of 100% cotton (Sport Gray contains a cotton-poly blend)<br>- Durable double needle bottom hem for long-lasting wear<br>- Self fabric necktape for added comfort and stability<br>- Crafted from 100% ring-spun cotton (fiber content may vary by color)<br>- Lightweight fabric at only 4.5 oz/yd² for a breezy feel<br><br>Care instructions<br>- Machine wash: cold (max 30C or 90F)<br>- Do not bleach<br>- Do not tumble dry<br>- Iron, steam or dry: low heat<br>- Do not dryclean<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beach day essentials</s:tag>
+    <s:tag>boho style tank</s:tag>
+    <s:tag>casual workout shirt</s:tag>
+    <s:tag>eco-friendly apparel</s:tag>
+    <s:tag>green nature design</s:tag>
+    <s:tag>lightweight tank top</s:tag>
+    <s:tag>minimalist tank top</s:tag>
+    <s:tag>nature themed gift</s:tag>
+    <s:tag>relaxed fit clothing</s:tag>
+    <s:tag>softstyle tank top</s:tag>
+    <s:tag>sustainable fashion</s:tag>
+    <s:tag>unisex tank top</s:tag>
+    <s:tag>yoga workout clothes</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Sport Grey / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>34222207464402550307</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>White / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>15026055981576007457</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Black / S</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>31202206427130628452</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Sport Grey / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>14605505344812233384</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>White / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>83528085578873487368</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Black / M</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>18721380446068996487</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Sport Grey / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>25108781878461358995</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>White / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22011322438983198726</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Black / L</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>22288898170627006346</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Sport Grey / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>17157213658629026536</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>White / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>65516481337191723043</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Black / XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>26413769161726608702</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>Sport Grey / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>33930565019882605355</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9692196536567</id>
+      <title>White / 2XL</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>30788707177416643340</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9691631419639</id>
+    <published>2025-06-25T19:04:49-06:00</published>
+    <updated>2025-06-25T19:04:49-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/sundown-at-the-beach-in-costa-rica"/>
+    <title>Sundown at the beach in Costa Rica</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/4853963238047997186_2048.jpg?v=1750906984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your casual style with this Closed-Back Structured Cap. Perfect for sunny days or outdoor adventures, this cap combines comfort and functionality. The vibrant embroidery adds a touch of artistry, making it an eye-catching accessory for anyone looking to express their individuality. Its versatile design is ideal for everyday wear, weekend outings, or special events, such as summer festivals or family gatherings. This cap is a fantastic gift for friends, family, or anyone who appreciates unique headwear. Celebrate spring and summer by adding this stylish cap to your collection!<br><br>Product features<br>- Six-panel structure with embroidered eyelets for breathable comfort<br>- Curved visor with eight rows of stitches for durability<br>- Stretchy fit accommodates head sizes 22" - 23 7/8"<br>- Soft and durable fabric blend of 63% polyester, 34% cotton, and 3% spandex<br>- Silver undervisor adds a stylish touch and reduces glare<br><br>Care instructions<br>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beach accessories</s:tag>
+    <s:tag>casual style</s:tag>
+    <s:tag>embroidered cap</s:tag>
+    <s:tag>fashionable cap</s:tag>
+    <s:tag>gift for her</s:tag>
+    <s:tag>gift for him</s:tag>
+    <s:tag>outdoor accessories</s:tag>
+    <s:tag>sports cap</s:tag>
+    <s:tag>structured cap</s:tag>
+    <s:tag>stylish headwear</s:tag>
+    <s:tag>summer fashion</s:tag>
+    <s:tag>trendy headwear</s:tag>
+    <s:tag>unique hat design</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>White / S/M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>11333041502574703361</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>Black / S/M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33346755176040742174</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>Grey / S/M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>56884732536223268531</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>White / L/XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>33685586894818404940</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>Black / L/XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>22014113155471921256</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691631419639</id>
+      <title>Grey / L/XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>30087185745308403862</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9691629912311</id>
+    <published>2025-06-25T19:02:22-06:00</published>
+    <updated>2025-06-25T19:02:22-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/mrm-log-hat"/>
+    <title>MRM - log  - hat</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/16526634885391238289_2048.jpg?v=1750899749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your casual style with this trendy 5 Panel Trucker Cap. Perfect for outdoor adventures or just lounging around, this cap seamlessly blends comfort with classic streetwear flair. The structured high-profile design and flat bill provide a stylish silhouette, while the adjustable snap closure allows for a personalized fit. This cap is ideal for fashion-forward individuals looking to make a statement, and its versatile style makes it suitable for various occasions—from summer festivals to everyday wear. It’s a fantastic gift for birthdays, graduations, or simply to treat yourself during casual outings. Whether you’re a fan of sports, music, or urban fashion, this trucker cap is a must-have accessory.<br><br>Product features<br>- High-profile five-panel structure for added style.<br>- Classic flat bill design enhances contemporary look.<br>- Adjustable snap closure for a comfortable, perfect fit.<br>- Made from a durable blend of 47% cotton, 28% nylon, and 25% polyester.<br>- Classic trucker cap styling that fits various personal styles.<br><br>Care instructions<br>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>5 Panel Cap</s:tag>
+    <s:tag>Austin</s:tag>
+    <s:tag>Austin Texas</s:tag>
+    <s:tag>baseball hat</s:tag>
+    <s:tag>Casual Headwear</s:tag>
+    <s:tag>casual wear hat</s:tag>
+    <s:tag>customizable hat</s:tag>
+    <s:tag>Embroidered Cap</s:tag>
+    <s:tag>Everyday Hat</s:tag>
+    <s:tag>Fashion Cap</s:tag>
+    <s:tag>Gift for Him</s:tag>
+    <s:tag>Hiking Accessory</s:tag>
+    <s:tag>hiking hat</s:tag>
+    <s:tag>Logo</s:tag>
+    <s:tag>Men&apos;s Clothing</s:tag>
+    <s:tag>Outdoor Accessory</s:tag>
+    <s:tag>structured hat</s:tag>
+    <s:tag>Stylish Cap</s:tag>
+    <s:tag>Summer Hat</s:tag>
+    <s:tag>team spirit hat</s:tag>
+    <s:tag>TikTok</s:tag>
+    <s:tag>Trendy Headwear</s:tag>
+    <s:tag>Trucker Hat</s:tag>
+    <s:tag>Unique Embroidery</s:tag>
+    <s:tag>unique hat design</s:tag>
+    <s:tag>Valentine&apos;s Day Picks</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691629912311</id>
+      <title>White / One size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>11590640500163563036</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691629912311</id>
+      <title>Black/White/Black / One size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>19679110059879925700</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691629912311</id>
+      <title>Navy/White / One size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>26083221605901897114</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691629912311</id>
+      <title>Navy/White/Navy / One size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>10866919237239352623</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9691629912311</id>
+      <title>Charcoal/White / One size</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>23101462008158725232</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mrmtshirts.com/products/9686047129847</id>
+    <published>2025-06-16T19:15:51-06:00</published>
+    <updated>2025-06-16T19:15:51-06:00</updated>
+    <link rel="alternate" type="text/html" href="https://mrmtshirts.com/products/mrm-hat"/>
+    <title>MRM - Hat</title>
+    <s:type>Hats</s:type>
+    <s:vendor>Printify</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0670/7750/5271/files/9889327071895947824_2048.jpg?v=1750122960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Printify<br>
+        <strong>Type: </strong>Hats<br>
+        <strong>Price: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Elevate your style with this structured cap, designed for comfort and flair. The clean lines and modern embroidery create a trendy vibe, perfect for casual outings or sunny days. Whether you’re hitting the beach, attending a festival, or just enjoying a laid-back weekend, this cap adds a stylish touch to your outfit. Ideal for fashion-forward individuals and those who appreciate unique accessories. This cap makes a great gift for birthdays, holidays, or any festive occasion, ensuring everyone looks their best while enjoying the outdoors.<br><br>Product features<br>- Six-panel structure with embroidered eyelets<br>- Curved visor featuring eight rows of stitching<br>- Stretchy band design for a comfortable fit<br>- Made from a blend of polyester, cotton, and spandex<br>- Stylish silver undervisor for added flair.<br><br>Care instructions<br>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>casual outfit</s:tag>
+    <s:tag>customizable hat</s:tag>
+    <s:tag>embroidered cap</s:tag>
+    <s:tag>fashion accessory</s:tag>
+    <s:tag>gifts for her</s:tag>
+    <s:tag>gifts for him</s:tag>
+    <s:tag>graduation gifts</s:tag>
+    <s:tag>outdoor wear</s:tag>
+    <s:tag>sports cap</s:tag>
+    <s:tag>structured cap</s:tag>
+    <s:tag>summer fashion</s:tag>
+    <s:tag>team spirit hat</s:tag>
+    <s:tag>trendy headwear</s:tag>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9686047129847</id>
+      <title>Multicam Green / S/M</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>21446234556045625108</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mrmtshirts.com/products/9686047129847</id>
+      <title>Multicam Green / L/XL</title>
+      <s:price currency="USD">39.99</s:price>
+      <s:sku>26026148141297527087</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+</feed>
